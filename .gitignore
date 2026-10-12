@@ -1,2 +1,38 @@
+# Local secrets and credentials
+.env
+.env.*
+!.env.example
+secrets/
+private/
+data/local/
+data/private/
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Editor and operating system files
 .DS_Store
 .vscode/
+.idea/
+Thumbs.db
+desktop.ini
+
+# Local development environments and caches
+.venv/
+venv/
+node_modules/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+coverage/
+dist/
+build/
+
+# Temporary editor and command output
+*.log
+*.tmp
+*.swp
+*.swo
