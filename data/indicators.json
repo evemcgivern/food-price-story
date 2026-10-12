@@ -4,1162 +4,1158 @@
       "year": 1970,
       "foodCpi": 39.925,
       "income": 4218,
-      "foodIndex": 100.0,
-      "incomeIndex": 100.0
+      "foodChangePercent": 5.0,
+      "incomeChangePercent": 6.84
     },
     {
       "year": 1971,
       "foodCpi": 40.892,
       "income": 4491,
-      "foodIndex": 102.42,
-      "incomeIndex": 106.47
+      "foodChangePercent": 2.42,
+      "incomeChangePercent": 6.47
     },
     {
       "year": 1972,
       "foodCpi": 42.708,
       "income": 4880,
-      "foodIndex": 106.97,
-      "incomeIndex": 115.69
+      "foodChangePercent": 4.44,
+      "incomeChangePercent": 8.66
     },
     {
       "year": 1973,
       "foodCpi": 49.667,
       "income": 5383,
-      "foodIndex": 124.4,
-      "incomeIndex": 127.62
+      "foodChangePercent": 16.29,
+      "incomeChangePercent": 10.31
     },
     {
       "year": 1974,
       "foodCpi": 57.042,
       "income": 5852,
-      "foodIndex": 142.87,
-      "incomeIndex": 138.74
+      "foodChangePercent": 14.85,
+      "incomeChangePercent": 8.71
     },
     {
       "year": 1975,
       "foodCpi": 61.75,
       "income": 6340,
-      "foodIndex": 154.66,
-      "incomeIndex": 150.31
+      "foodChangePercent": 8.25,
+      "incomeChangePercent": 8.34
     },
     {
       "year": 1976,
       "foodCpi": 63.058,
       "income": 6890,
-      "foodIndex": 157.94,
-      "incomeIndex": 163.35
+      "foodChangePercent": 2.12,
+      "incomeChangePercent": 8.68
     },
     {
       "year": 1977,
       "foodCpi": 66.8,
       "income": 7532,
-      "foodIndex": 167.31,
-      "incomeIndex": 178.57
+      "foodChangePercent": 5.93,
+      "incomeChangePercent": 9.32
     },
     {
       "year": 1978,
       "foodCpi": 73.833,
       "income": 8371,
-      "foodIndex": 184.93,
-      "incomeIndex": 198.46
+      "foodChangePercent": 10.53,
+      "incomeChangePercent": 11.14
     },
     {
       "year": 1979,
       "foodCpi": 81.817,
       "income": 9252,
-      "foodIndex": 204.93,
-      "incomeIndex": 219.35
+      "foodChangePercent": 10.81,
+      "incomeChangePercent": 10.52
     },
     {
       "year": 1980,
       "foodCpi": 88.358,
       "income": 10207,
-      "foodIndex": 221.31,
-      "incomeIndex": 241.99
+      "foodChangePercent": 7.99,
+      "incomeChangePercent": 10.32
     },
     {
       "year": 1981,
       "foodCpi": 94.817,
       "income": 11318,
-      "foodIndex": 237.49,
-      "incomeIndex": 268.33
+      "foodChangePercent": 7.31,
+      "incomeChangePercent": 10.88
     },
     {
       "year": 1982,
       "foodCpi": 98.083,
       "income": 12012,
-      "foodIndex": 245.67,
-      "incomeIndex": 284.78
+      "foodChangePercent": 3.44,
+      "incomeChangePercent": 6.13
     },
     {
       "year": 1983,
       "foodCpi": 99.125,
       "income": 12724,
-      "foodIndex": 248.28,
-      "incomeIndex": 301.66
+      "foodChangePercent": 1.06,
+      "incomeChangePercent": 5.93
     },
     {
       "year": 1984,
       "foodCpi": 102.792,
       "income": 13912,
-      "foodIndex": 257.46,
-      "incomeIndex": 329.82
+      "foodChangePercent": 3.7,
+      "incomeChangePercent": 9.34
     },
     {
       "year": 1985,
       "foodCpi": 104.267,
       "income": 14771,
-      "foodIndex": 261.16,
-      "incomeIndex": 350.19
+      "foodChangePercent": 1.43,
+      "incomeChangePercent": 6.17
     },
     {
       "year": 1986,
       "foodCpi": 107.25,
       "income": 15503,
-      "foodIndex": 268.63,
-      "incomeIndex": 367.54
+      "foodChangePercent": 2.86,
+      "incomeChangePercent": 4.96
     },
     {
       "year": 1987,
       "foodCpi": 111.883,
       "income": 16252,
-      "foodIndex": 280.23,
-      "incomeIndex": 385.3
+      "foodChangePercent": 4.32,
+      "incomeChangePercent": 4.83
     },
     {
       "year": 1988,
       "foodCpi": 116.55,
       "income": 17465,
-      "foodIndex": 291.92,
-      "incomeIndex": 414.06
+      "foodChangePercent": 4.17,
+      "incomeChangePercent": 7.46
     },
     {
       "year": 1989,
       "foodCpi": 124.208,
       "income": 18679,
-      "foodIndex": 311.1,
-      "incomeIndex": 442.84
+      "foodChangePercent": 6.57,
+      "incomeChangePercent": 6.95
     },
     {
       "year": 1990,
       "foodCpi": 132.317,
       "income": 19639,
-      "foodIndex": 331.41,
-      "incomeIndex": 465.6
+      "foodChangePercent": 6.53,
+      "incomeChangePercent": 5.14
     },
     {
       "year": 1991,
       "foodCpi": 135.842,
       "income": 20076,
-      "foodIndex": 340.24,
-      "incomeIndex": 475.96
+      "foodChangePercent": 2.66,
+      "incomeChangePercent": 2.23
     },
     {
       "year": 1992,
       "foodCpi": 136.825,
       "income": 21086,
-      "foodIndex": 342.71,
-      "incomeIndex": 499.91
+      "foodChangePercent": 0.72,
+      "incomeChangePercent": 5.03
     },
     {
       "year": 1993,
       "foodCpi": 140.058,
       "income": 21718,
-      "foodIndex": 350.8,
-      "incomeIndex": 514.89
+      "foodChangePercent": 2.36,
+      "incomeChangePercent": 3.0
     },
     {
       "year": 1994,
       "foodCpi": 144.083,
       "income": 22550,
-      "foodIndex": 360.88,
-      "incomeIndex": 534.61
+      "foodChangePercent": 2.87,
+      "incomeChangePercent": 3.83
     },
     {
       "year": 1995,
       "foodCpi": 148.75,
       "income": 23570,
-      "foodIndex": 372.57,
-      "incomeIndex": 558.8
+      "foodChangePercent": 3.24,
+      "incomeChangePercent": 4.52
     },
     {
       "year": 1996,
       "foodCpi": 154.3,
       "income": 24716,
-      "foodIndex": 386.47,
-      "incomeIndex": 585.96
+      "foodChangePercent": 3.73,
+      "incomeChangePercent": 4.86
     },
     {
       "year": 1997,
       "foodCpi": 158.142,
       "income": 25916,
-      "foodIndex": 396.1,
-      "incomeIndex": 614.41
+      "foodChangePercent": 2.49,
+      "incomeChangePercent": 4.86
     },
     {
       "year": 1998,
       "foodCpi": 161.133,
       "income": 27479,
-      "foodIndex": 403.59,
-      "incomeIndex": 651.47
+      "foodChangePercent": 1.89,
+      "incomeChangePercent": 6.03
     },
     {
       "year": 1999,
       "foodCpi": 164.208,
       "income": 28564,
-      "foodIndex": 411.29,
-      "incomeIndex": 677.19
+      "foodChangePercent": 1.91,
+      "incomeChangePercent": 3.95
     },
     {
       "year": 2000,
       "foodCpi": 167.883,
       "income": 30529,
-      "foodIndex": 420.5,
-      "incomeIndex": 723.78
+      "foodChangePercent": 2.24,
+      "incomeChangePercent": 6.88
     },
     {
       "year": 2001,
       "foodCpi": 173.367,
       "income": 31530,
-      "foodIndex": 434.23,
-      "incomeIndex": 747.51
+      "foodChangePercent": 3.27,
+      "incomeChangePercent": 3.28
     },
     {
       "year": 2002,
       "foodCpi": 175.617,
       "income": 31776,
-      "foodIndex": 439.87,
-      "incomeIndex": 753.34
+      "foodChangePercent": 1.3,
+      "incomeChangePercent": 0.78
     },
     {
       "year": 2003,
       "foodCpi": 179.392,
       "income": 32625,
-      "foodIndex": 449.32,
-      "incomeIndex": 773.47
+      "foodChangePercent": 2.15,
+      "incomeChangePercent": 2.67
     },
     {
       "year": 2004,
       "foodCpi": 186.183,
       "income": 34153,
-      "foodIndex": 466.33,
-      "incomeIndex": 809.7
+      "foodChangePercent": 3.79,
+      "incomeChangePercent": 4.68
     },
     {
       "year": 2005,
       "foodCpi": 189.775,
       "income": 35630,
-      "foodIndex": 475.33,
-      "incomeIndex": 844.71
+      "foodChangePercent": 1.93,
+      "incomeChangePercent": 4.32
     },
     {
       "year": 2006,
       "foodCpi": 193.117,
       "income": 37822,
-      "foodIndex": 483.7,
-      "incomeIndex": 896.68
+      "foodChangePercent": 1.76,
+      "incomeChangePercent": 6.15
     },
     {
       "year": 2007,
       "foodCpi": 201.245,
       "income": 39550,
-      "foodIndex": 504.06,
-      "incomeIndex": 937.65
+      "foodChangePercent": 4.21,
+      "incomeChangePercent": 4.57
     },
     {
       "year": 2008,
       "foodCpi": 214.125,
       "income": 40801,
-      "foodIndex": 536.32,
-      "incomeIndex": 967.31
+      "foodChangePercent": 6.4,
+      "incomeChangePercent": 3.16
     },
     {
       "year": 2009,
       "foodCpi": 215.124,
       "income": 39271,
-      "foodIndex": 538.82,
-      "incomeIndex": 931.03
+      "foodChangePercent": 0.47,
+      "incomeChangePercent": -3.75
     },
     {
       "year": 2010,
       "foodCpi": 215.836,
       "income": 40526,
-      "foodIndex": 540.6,
-      "incomeIndex": 960.79
+      "foodChangePercent": 0.33,
+      "incomeChangePercent": 3.2
     },
     {
       "year": 2011,
       "foodCpi": 226.201,
       "income": 42619,
-      "foodIndex": 566.56,
-      "incomeIndex": 1010.41
+      "foodChangePercent": 4.8,
+      "incomeChangePercent": 5.16
     },
     {
       "year": 2012,
       "foodCpi": 231.774,
       "income": 44222,
-      "foodIndex": 580.52,
-      "incomeIndex": 1048.41
+      "foodChangePercent": 2.46,
+      "incomeChangePercent": 3.76
     },
     {
       "year": 2013,
       "foodCpi": 233.869,
       "income": 44367,
-      "foodIndex": 585.77,
-      "incomeIndex": 1051.85
+      "foodChangePercent": 0.9,
+      "incomeChangePercent": 0.33
     },
     {
       "year": 2014,
       "foodCpi": 239.456,
       "income": 46258,
-      "foodIndex": 599.76,
-      "incomeIndex": 1096.68
+      "foodChangePercent": 2.39,
+      "incomeChangePercent": 4.26
     },
     {
       "year": 2015,
       "foodCpi": 242.25,
       "income": 48038,
-      "foodIndex": 606.76,
-      "incomeIndex": 1138.88
+      "foodChangePercent": 1.17,
+      "incomeChangePercent": 3.85
     },
     {
       "year": 2016,
       "foodCpi": 239.065,
       "income": 48944,
-      "foodIndex": 598.79,
-      "incomeIndex": 1160.36
+      "foodChangePercent": -1.31,
+      "incomeChangePercent": 1.89
     },
     {
       "year": 2017,
       "foodCpi": 238.589,
       "income": 50978,
-      "foodIndex": 597.59,
-      "incomeIndex": 1208.58
+      "foodChangePercent": -0.2,
+      "incomeChangePercent": 4.16
     },
     {
       "year": 2018,
       "foodCpi": 239.661,
       "income": 53310,
-      "foodIndex": 600.28,
-      "incomeIndex": 1263.87
+      "foodChangePercent": 0.45,
+      "incomeChangePercent": 4.57
     },
     {
       "year": 2019,
       "foodCpi": 241.774,
       "income": 55560,
-      "foodIndex": 605.57,
-      "incomeIndex": 1317.21
+      "foodChangePercent": 0.88,
+      "incomeChangePercent": 4.22
     },
     {
       "year": 2020,
       "foodCpi": 250.233,
       "income": 59160,
-      "foodIndex": 626.76,
-      "incomeIndex": 1402.56
+      "foodChangePercent": 3.5,
+      "incomeChangePercent": 6.48
     },
     {
       "year": 2021,
       "foodCpi": 258.892,
       "income": 64683,
-      "foodIndex": 648.45,
-      "incomeIndex": 1533.5
+      "foodChangePercent": 3.46,
+      "incomeChangePercent": 9.34
     },
     {
       "year": 2022,
       "foodCpi": 288.451,
       "income": 66270,
-      "foodIndex": 722.48,
-      "incomeIndex": 1571.12
+      "foodChangePercent": 11.42,
+      "incomeChangePercent": 2.45
     },
     {
       "year": 2023,
       "foodCpi": 302.929,
       "income": 70137,
-      "foodIndex": 758.75,
-      "incomeIndex": 1662.8
+      "foodChangePercent": 5.02,
+      "incomeChangePercent": 5.84
     },
     {
       "year": 2024,
       "foodCpi": 306.536,
       "income": 73636,
-      "foodIndex": 767.78,
-      "incomeIndex": 1745.76
+      "foodChangePercent": 1.19,
+      "incomeChangePercent": 4.99
     }
   ],
   "regions": {
     "Northeast": {
       "seriesId": "CUUR0100SAF11",
-      "baseYear": 1978,
       "annual": [
         {
           "year": 1978,
-          "index": 100.0
+          "changePercent": null
         },
         {
           "year": 1979,
-          "index": 110.18
+          "changePercent": 10.18
         },
         {
           "year": 1980,
-          "index": 119.14
+          "changePercent": 8.14
         },
         {
           "year": 1981,
-          "index": 127.68
+          "changePercent": 7.17
         },
         {
           "year": 1982,
-          "index": 132.4
+          "changePercent": 3.7
         },
         {
           "year": 1983,
-          "index": 133.91
+          "changePercent": 1.14
         },
         {
           "year": 1984,
-          "index": 138.57
+          "changePercent": 3.48
         },
         {
           "year": 1985,
-          "index": 141.4
+          "changePercent": 2.05
         },
         {
           "year": 1986,
-          "index": 145.78
+          "changePercent": 3.09
         },
         {
           "year": 1987,
-          "index": 153.39
+          "changePercent": 5.22
         },
         {
           "year": 1988,
-          "index": 160.58
+          "changePercent": 4.69
         },
         {
           "year": 1989,
-          "index": 171.66
+          "changePercent": 6.9
         },
         {
           "year": 1990,
-          "index": 182.98
+          "changePercent": 6.6
         },
         {
           "year": 1991,
-          "index": 188.01
+          "changePercent": 2.75
         },
         {
           "year": 1992,
-          "index": 190.95
+          "changePercent": 1.56
         },
         {
           "year": 1993,
-          "index": 196.13
+          "changePercent": 2.72
         },
         {
           "year": 1994,
-          "index": 201.44
+          "changePercent": 2.71
         },
         {
           "year": 1995,
-          "index": 207.74
+          "changePercent": 3.13
         },
         {
           "year": 1996,
-          "index": 213.79
+          "changePercent": 2.91
         },
         {
           "year": 1997,
-          "index": 217.62
+          "changePercent": 1.79
         },
         {
           "year": 1998,
-          "index": 220.74
+          "changePercent": 1.43
         },
         {
           "year": 1999,
-          "index": 225.51
+          "changePercent": 2.16
         },
         {
           "year": 2000,
-          "index": 229.17
+          "changePercent": 1.63
         },
         {
           "year": 2001,
-          "index": 236.41
+          "changePercent": 3.16
         },
         {
           "year": 2002,
-          "index": 239.07
+          "changePercent": 1.13
         },
         {
           "year": 2003,
-          "index": 244.38
+          "changePercent": 2.22
         },
         {
           "year": 2004,
-          "index": 255.16
+          "changePercent": 4.41
         },
         {
           "year": 2005,
-          "index": 261.97
+          "changePercent": 2.67
         },
         {
           "year": 2006,
-          "index": 267.84
+          "changePercent": 2.24
         },
         {
           "year": 2007,
-          "index": 278.37
+          "changePercent": 3.93
         },
         {
           "year": 2008,
-          "index": 295.62
+          "changePercent": 6.2
         },
         {
           "year": 2009,
-          "index": 298.54
+          "changePercent": 0.99
         },
         {
           "year": 2010,
-          "index": 301.36
+          "changePercent": 0.95
         },
         {
           "year": 2011,
-          "index": 314.33
+          "changePercent": 4.3
         },
         {
           "year": 2012,
-          "index": 322.94
+          "changePercent": 2.74
         },
         {
           "year": 2013,
-          "index": 325.64
+          "changePercent": 0.83
         },
         {
           "year": 2014,
-          "index": 331.2
+          "changePercent": 1.71
         },
         {
           "year": 2015,
-          "index": 335.77
+          "changePercent": 1.38
         },
         {
           "year": 2016,
-          "index": 331.28
+          "changePercent": -1.34
         },
         {
           "year": 2017,
-          "index": 331.79
+          "changePercent": 0.15
         },
         {
           "year": 2018,
-          "index": 335.88
+          "changePercent": 1.23
         },
         {
           "year": 2019,
-          "index": 338.57
+          "changePercent": 0.8
         },
         {
           "year": 2020,
-          "index": 350.17
+          "changePercent": 3.43
         },
         {
           "year": 2021,
-          "index": 358.39
+          "changePercent": 2.35
         },
         {
           "year": 2022,
-          "index": 394.67
+          "changePercent": 10.12
         },
         {
           "year": 2023,
-          "index": 413.54
+          "changePercent": 4.78
         },
         {
           "year": 2024,
-          "index": 417.28
+          "changePercent": 0.9
         }
       ]
     },
     "Midwest": {
       "seriesId": "CUUR0200SAF11",
-      "baseYear": 1978,
       "annual": [
         {
           "year": 1978,
-          "index": 100.0
+          "changePercent": null
         },
         {
           "year": 1979,
-          "index": 110.68
+          "changePercent": 10.68
         },
         {
           "year": 1980,
-          "index": 119.11
+          "changePercent": 7.62
         },
         {
           "year": 1981,
-          "index": 127.2
+          "changePercent": 6.79
         },
         {
           "year": 1982,
-          "index": 131.1
+          "changePercent": 3.07
         },
         {
           "year": 1983,
-          "index": 131.49
+          "changePercent": 0.29
         },
         {
           "year": 1984,
-          "index": 135.74
+          "changePercent": 3.23
         },
         {
           "year": 1985,
-          "index": 137.04
+          "changePercent": 0.96
         },
         {
           "year": 1986,
-          "index": 141.3
+          "changePercent": 3.11
         },
         {
           "year": 1987,
-          "index": 147.31
+          "changePercent": 4.25
         },
         {
           "year": 1988,
-          "index": 152.88
+          "changePercent": 3.78
         },
         {
           "year": 1989,
-          "index": 162.35
+          "changePercent": 6.19
         },
         {
           "year": 1990,
-          "index": 173.21
+          "changePercent": 6.69
         },
         {
           "year": 1991,
-          "index": 177.94
+          "changePercent": 2.73
         },
         {
           "year": 1992,
-          "index": 178.49
+          "changePercent": 0.31
         },
         {
           "year": 1993,
-          "index": 182.32
+          "changePercent": 2.15
         },
         {
           "year": 1994,
-          "index": 186.58
+          "changePercent": 2.34
         },
         {
           "year": 1995,
-          "index": 192.38
+          "changePercent": 3.11
         },
         {
           "year": 1996,
-          "index": 199.6
+          "changePercent": 3.76
         },
         {
           "year": 1997,
-          "index": 204.31
+          "changePercent": 2.36
         },
         {
           "year": 1998,
-          "index": 208.09
+          "changePercent": 1.85
         },
         {
           "year": 1999,
-          "index": 212.39
+          "changePercent": 2.07
         },
         {
           "year": 2000,
-          "index": 217.36
+          "changePercent": 2.34
         },
         {
           "year": 2001,
-          "index": 224.12
+          "changePercent": 3.11
         },
         {
           "year": 2002,
-          "index": 225.79
+          "changePercent": 0.75
         },
         {
           "year": 2003,
-          "index": 228.98
+          "changePercent": 1.41
         },
         {
           "year": 2004,
-          "index": 235.61
+          "changePercent": 2.9
         },
         {
           "year": 2005,
-          "index": 240.73
+          "changePercent": 2.17
         },
         {
           "year": 2006,
-          "index": 244.59
+          "changePercent": 1.6
         },
         {
           "year": 2007,
-          "index": 254.28
+          "changePercent": 3.96
         },
         {
           "year": 2008,
-          "index": 270.56
+          "changePercent": 6.4
         },
         {
           "year": 2009,
-          "index": 273.13
+          "changePercent": 0.95
         },
         {
           "year": 2010,
-          "index": 274.34
+          "changePercent": 0.45
         },
         {
           "year": 2011,
-          "index": 287.24
+          "changePercent": 4.7
         },
         {
           "year": 2012,
-          "index": 294.77
+          "changePercent": 2.62
         },
         {
           "year": 2013,
-          "index": 296.4
+          "changePercent": 0.55
         },
         {
           "year": 2014,
-          "index": 303.76
+          "changePercent": 2.48
         },
         {
           "year": 2015,
-          "index": 305.44
+          "changePercent": 0.55
         },
         {
           "year": 2016,
-          "index": 301.38
+          "changePercent": -1.33
         },
         {
           "year": 2017,
-          "index": 300.3
+          "changePercent": -0.36
         },
         {
           "year": 2018,
-          "index": 300.39
+          "changePercent": 0.03
         },
         {
           "year": 2019,
-          "index": 301.87
+          "changePercent": 0.49
         },
         {
           "year": 2020,
-          "index": 310.58
+          "changePercent": 2.89
         },
         {
           "year": 2021,
-          "index": 321.23
+          "changePercent": 3.43
         },
         {
           "year": 2022,
-          "index": 362.53
+          "changePercent": 12.86
         },
         {
           "year": 2023,
-          "index": 381.45
+          "changePercent": 5.22
         },
         {
           "year": 2024,
-          "index": 385.7
+          "changePercent": 1.12
         }
       ]
     },
     "South": {
       "seriesId": "CUUR0300SAF11",
-      "baseYear": 1978,
       "annual": [
         {
           "year": 1978,
-          "index": 100.0
+          "changePercent": null
         },
         {
           "year": 1979,
-          "index": 111.19
+          "changePercent": 11.19
         },
         {
           "year": 1980,
-          "index": 120.51
+          "changePercent": 8.38
         },
         {
           "year": 1981,
-          "index": 129.61
+          "changePercent": 7.55
         },
         {
           "year": 1982,
-          "index": 133.64
+          "changePercent": 3.11
         },
         {
           "year": 1983,
-          "index": 135.3
+          "changePercent": 1.24
         },
         {
           "year": 1984,
-          "index": 141.16
+          "changePercent": 4.33
         },
         {
           "year": 1985,
-          "index": 142.46
+          "changePercent": 0.92
         },
         {
           "year": 1986,
-          "index": 146.3
+          "changePercent": 2.7
         },
         {
           "year": 1987,
-          "index": 151.86
+          "changePercent": 3.8
         },
         {
           "year": 1988,
-          "index": 157.93
+          "changePercent": 4.0
         },
         {
           "year": 1989,
-          "index": 167.89
+          "changePercent": 6.3
         },
         {
           "year": 1990,
-          "index": 178.55
+          "changePercent": 6.35
         },
         {
           "year": 1991,
-          "index": 181.94
+          "changePercent": 1.9
         },
         {
           "year": 1992,
-          "index": 181.98
+          "changePercent": 0.02
         },
         {
           "year": 1993,
-          "index": 185.44
+          "changePercent": 1.9
         },
         {
           "year": 1994,
-          "index": 191.68
+          "changePercent": 3.37
         },
         {
           "year": 1995,
-          "index": 198.01
+          "changePercent": 3.3
         },
         {
           "year": 1996,
-          "index": 207.15
+          "changePercent": 4.62
         },
         {
           "year": 1997,
-          "index": 212.24
+          "changePercent": 2.45
         },
         {
           "year": 1998,
-          "index": 215.47
+          "changePercent": 1.52
         },
         {
           "year": 1999,
-          "index": 218.81
+          "changePercent": 1.55
         },
         {
           "year": 2000,
-          "index": 224.78
+          "changePercent": 2.73
         },
         {
           "year": 2001,
-          "index": 231.2
+          "changePercent": 2.86
         },
         {
           "year": 2002,
-          "index": 234.13
+          "changePercent": 1.27
         },
         {
           "year": 2003,
-          "index": 239.29
+          "changePercent": 2.2
         },
         {
           "year": 2004,
-          "index": 248.7
+          "changePercent": 3.93
         },
         {
           "year": 2005,
-          "index": 253.68
+          "changePercent": 2.0
         },
         {
           "year": 2006,
-          "index": 258.69
+          "changePercent": 1.98
         },
         {
           "year": 2007,
-          "index": 269.49
+          "changePercent": 4.18
         },
         {
           "year": 2008,
-          "index": 287.61
+          "changePercent": 6.72
         },
         {
           "year": 2009,
-          "index": 289.8
+          "changePercent": 0.76
         },
         {
           "year": 2010,
-          "index": 291.51
+          "changePercent": 0.59
         },
         {
           "year": 2011,
-          "index": 306.43
+          "changePercent": 5.12
         },
         {
           "year": 2012,
-          "index": 314.71
+          "changePercent": 2.7
         },
         {
           "year": 2013,
-          "index": 318.45
+          "changePercent": 1.19
         },
         {
           "year": 2014,
-          "index": 326.21
+          "changePercent": 2.44
         },
         {
           "year": 2015,
-          "index": 329.58
+          "changePercent": 1.03
         },
         {
           "year": 2016,
-          "index": 324.9
+          "changePercent": -1.42
         },
         {
           "year": 2017,
-          "index": 324.17
+          "changePercent": -0.22
         },
         {
           "year": 2018,
-          "index": 325.14
+          "changePercent": 0.3
         },
         {
           "year": 2019,
-          "index": 327.38
+          "changePercent": 0.69
         },
         {
           "year": 2020,
-          "index": 338.9
+          "changePercent": 3.52
         },
         {
           "year": 2021,
-          "index": 350.54
+          "changePercent": 3.43
         },
         {
           "year": 2022,
-          "index": 390.43
+          "changePercent": 11.38
         },
         {
           "year": 2023,
-          "index": 411.29
+          "changePercent": 5.34
         },
         {
           "year": 2024,
-          "index": 416.41
+          "changePercent": 1.24
         }
       ]
     },
     "West": {
       "seriesId": "CUUR0400SAF11",
-      "baseYear": 1978,
       "annual": [
         {
           "year": 1978,
-          "index": 100.0
+          "changePercent": null
         },
         {
           "year": 1979,
-          "index": 111.35
+          "changePercent": 11.35
         },
         {
           "year": 1980,
-          "index": 120.07
+          "changePercent": 7.83
         },
         {
           "year": 1981,
-          "index": 129.63
+          "changePercent": 7.97
         },
         {
           "year": 1982,
-          "index": 134.84
+          "changePercent": 4.01
         },
         {
           "year": 1983,
-          "index": 137.19
+          "changePercent": 1.74
         },
         {
           "year": 1984,
-          "index": 142.38
+          "changePercent": 3.78
         },
         {
           "year": 1985,
-          "index": 145.02
+          "changePercent": 1.85
         },
         {
           "year": 1986,
-          "index": 148.46
+          "changePercent": 2.37
         },
         {
           "year": 1987,
-          "index": 154.25
+          "changePercent": 3.9
         },
         {
           "year": 1988,
-          "index": 160.8
+          "changePercent": 4.25
         },
         {
           "year": 1989,
-          "index": 172.06
+          "changePercent": 7.0
         },
         {
           "year": 1990,
-          "index": 183.22
+          "changePercent": 6.48
         },
         {
           "year": 1991,
-          "index": 189.54
+          "changePercent": 3.45
         },
         {
           "year": 1992,
-          "index": 191.59
+          "changePercent": 1.08
         },
         {
           "year": 1993,
-          "index": 196.95
+          "changePercent": 2.8
         },
         {
           "year": 1994,
-          "index": 202.91
+          "changePercent": 3.03
         },
         {
           "year": 1995,
-          "index": 209.87
+          "changePercent": 3.43
         },
         {
           "year": 1996,
-          "index": 217.39
+          "changePercent": 3.58
         },
         {
           "year": 1997,
-          "index": 224.95
+          "changePercent": 3.48
         },
         {
           "year": 1998,
-          "index": 231.82
+          "changePercent": 3.06
         },
         {
           "year": 1999,
-          "index": 236.55
+          "changePercent": 2.04
         },
         {
           "year": 2000,
-          "index": 241.4
+          "changePercent": 2.05
         },
         {
           "year": 2001,
-          "index": 251.41
+          "changePercent": 4.14
         },
         {
           "year": 2002,
-          "index": 256.18
+          "changePercent": 1.9
         },
         {
           "year": 2003,
-          "index": 262.99
+          "changePercent": 2.66
         },
         {
           "year": 2004,
-          "index": 272.88
+          "changePercent": 3.76
         },
         {
           "year": 2005,
-          "index": 275.4
+          "changePercent": 0.92
         },
         {
           "year": 2006,
-          "index": 278.62
+          "changePercent": 1.17
         },
         {
           "year": 2007,
-          "index": 291.78
+          "changePercent": 4.72
         },
         {
           "year": 2008,
-          "index": 309.78
+          "changePercent": 6.17
         },
         {
           "year": 2009,
-          "index": 307.52
+          "changePercent": -0.73
         },
         {
           "year": 2010,
-          "index": 305.68
+          "changePercent": -0.6
         },
         {
           "year": 2011,
-          "index": 320.61
+          "changePercent": 4.89
         },
         {
           "year": 2012,
-          "index": 326.4
+          "changePercent": 1.8
         },
         {
           "year": 2013,
-          "index": 329.32
+          "changePercent": 0.9
         },
         {
           "year": 2014,
-          "index": 338.51
+          "changePercent": 2.79
         },
         {
           "year": 2015,
-          "index": 344.19
+          "changePercent": 1.68
         },
         {
           "year": 2016,
-          "index": 340.24
+          "changePercent": -1.15
         },
         {
           "year": 2017,
-          "index": 339.18
+          "changePercent": -0.31
         },
         {
           "year": 2018,
-          "index": 340.67
+          "changePercent": 0.44
         },
         {
           "year": 2019,
-          "index": 345.86
+          "changePercent": 1.52
         },
         {
           "year": 2020,
-          "index": 359.65
+          "changePercent": 3.99
         },
         {
           "year": 2021,
-          "index": 375.34
+          "changePercent": 4.36
         },
         {
           "year": 2022,
-          "index": 418.14
+          "changePercent": 11.4
         },
         {
           "year": 2023,
-          "index": 437.49
+          "changePercent": 4.63
         },
         {
           "year": 2024,
-          "index": 443.61
+          "changePercent": 1.4
         }
       ]
     }
