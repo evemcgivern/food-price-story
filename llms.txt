@@ -1,0 +1,13 @@
+# The Grocery Gap
+
+> A static visualization comparing U.S. food-at-home CPI-U and BEA personal income per capita from 1970 to 2025, with a BLS Consumer Expenditure Survey snapshot by Census region and division for 2021–2022.
+
+## Sources and methods
+- [Project guide](README.md): measure definitions, caveats, and citations.
+- [Data files and methods](data/README.md): packaged datasets and transformations.
+- [BLS CEX region table 1800](https://www.bls.gov/cex/tables/geographic/mean/cu-region-2-year-average-2021-2022.pdf)
+- [BLS CEX division table 2700](https://www.bls.gov/cex/tables/geographic/mean/cu-division-2-year-average-2021-2022.pdf)
+- [BLS CPI-U food at home](https://fred.stlouisfed.org/series/CUUR0000SAF11)
+- [BEA personal income per capita](https://fred.stlouisfed.org/series/A792RC0A052NBEA)
+
+State outlines are geographic context only. Statistics are only reported for Census regions and divisions.

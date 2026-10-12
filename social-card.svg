@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<rect width="1200" height="630" fill="#f6f5ef"/>
+<path d="M0 520C180 450 270 550 430 500s270-70 410-12 230 45 360-5v147H0z" fill="#d8e7cd"/>
+<text x="82" y="114" fill="#c14e36" font-family="Arial,sans-serif" font-size="22" font-weight="700" letter-spacing="4">GROCERIES · INCOME · GEOGRAPHY</text>
+<text x="78" y="260" fill="#172327" font-family="Georgia,serif" font-size="78">The grocery bill got bigger.</text>
+<text x="78" y="350" fill="#172327" font-family="Georgia,serif" font-size="78">What happened to income?</text>
+<text x="84" y="425" fill="#405557" font-family="Arial,sans-serif" font-size="27">A source-first look from 1970 onward, by Census region and division.</text>
+<path d="M80 520 C200 514 270 490 350 470 S510 410 600 378 S760 295 850 255 S1030 202 1120 170" fill="none" stroke="#c14e36" stroke-width="9" stroke-linecap="round"/>
+<path d="M80 520 C185 510 260 485 350 440 S510 340 600 280 S750 200 850 152 S1020 116 1120 92" fill="none" stroke="#0d5144" stroke-width="9" stroke-linecap="round"/>
+</svg>
