@@ -1,10 +1,11 @@
 # The Grocery Gap
 
-> A static visualization comparing annual U.S. food-at-home CPI-U and BEA personal income per capita from 1970 to 2024, with cumulative regional grocery-price growth since 1978 and seven BLS Consumer Expenditure Survey region and division snapshots from 2017–2018 through 2023–2024. Food-budget-share map colors show percentage-point change from the first snapshot.
+> A static visualization comparing annual U.S. food-at-home CPI-U and BEA personal income per capita from 1970 to 2024; USDA national food-at-home, food-away-from-home, and total food spending shares of disposable personal income from 1997 to 2025; cumulative regional grocery-price growth since 1978; and seven BLS Consumer Expenditure Survey region and division snapshots from 2017–2018 through 2023–2024. Food-budget-share map colors show percentage-point change from the first BLS snapshot.
 
 ## Sources and methods
 - [Project guide](README.md): measure definitions, caveats, and citations.
 - [Data files and methods](data/README.md): packaged datasets and transformations.
+- [USDA ERS Food Expenditure Series](https://www.ers.usda.gov/data-products/food-expenditure-series/): national food-budget-share source and methodology.
 - [BLS CEX geographic table index](https://www.bls.gov/cex/tables/geographic/mean.htm) (Tables 1800 and 2700)
 - [BLS CPI-U food at home](https://fred.stlouisfed.org/series/CUUR0000SAF11)
 - [BEA personal income per capita](https://fred.stlouisfed.org/series/A792RC0A052NBEA)

@@ -28,6 +28,20 @@ def annual_personal_income() -> dict[int, int]:
             if row["A792RC0A052NBEA"] not in {"", ".", "NA"}
         }
 
+def national_food_shares() -> list[dict[str, int | float]]:
+    path = SOURCE / "usda-food-expenditure-shares.csv"
+    columns = {
+        "foodAtHomePercent": "Food-at-home nominal food expenditure share of disposable personal income, household final users (percentage)",
+        "foodAwayPercent": "Food-away-from-home nominal food expenditure share of disposable personal income, household final users (percentage)",
+        "totalFoodPercent": "Total nominal food expenditure share of disposable personal income, household final users (percentage)",
+    }
+    rows = []
+    with path.open(newline="") as stream:
+        for row in csv.DictReader(stream):
+            year = int(row["Year"])
+            rows.append({"year": year, **{key: float(row[column]) for key, column in columns.items()}})
+    return rows
+
 def replace_between(document: str, start_marker: str, end_marker: str, replacement: str) -> str:
     start = document.index(start_marker) + len(start_marker)
     end = document.index(end_marker, start)
@@ -70,6 +84,7 @@ for region, series_id in {
         ],
     }
 indicators = {"national": national, "regions": regions}
+food_shares = national_food_shares()
 (ROOT / "data" / "indicators.json").write_text(json.dumps(indicators, indent=2) + "\n")
 subprocess.run([sys.executable, str(ROOT / "scripts" / "build-map.py")], check=True, cwd=ROOT)
 page = (ROOT / "index.html").read_text()
@@ -91,5 +106,6 @@ for snapshot in cex["snapshots"]:
             )
 (ROOT / "data" / "cex-snapshot.json").write_text(json.dumps(cex, indent=2) + "\n")
 page = replace_between(page, "<!-- GENERATED CEX START -->", "<!-- GENERATED CEX END -->", f'<script id="cex" type="application/json">{json.dumps(cex, separators=(",", ":"))}</script>')
+page = replace_between(page, "<!-- GENERATED FOOD SHARES START -->", "<!-- GENERATED FOOD SHARES END -->", f'<script id="food-shares" type="application/json">{json.dumps(food_shares, separators=(",", ":"))}</script>')
 (ROOT / "index.html").write_text(page)
-print(f"Embedded {len(national)} complete national years through {national[-1]['year']}; refreshed {len(regions)} regional CPI series.")
+print(f"Embedded {len(national)} annual price years through {national[-1]['year']}, {len(food_shares)} USDA food-share years through {food_shares[-1]['year']}, and refreshed {len(regions)} regional CPI series.")
