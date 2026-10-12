@@ -35,18 +35,16 @@ def replace_between(document: str, start_marker: str, end_marker: str, replaceme
 
 national_cpi = annual_means("CUUR0000SAF11")
 income = annual_personal_income()
-base_cpi = national_cpi[1970]
-base_income = income[1970]
 national = [
     {
         "year": year,
         "foodCpi": national_cpi[year],
         "income": income[year],
-        "foodIndex": round(national_cpi[year] / base_cpi * 100, 2),
-        "incomeIndex": round(income[year] / base_income * 100, 2),
+        "foodChangePercent": round((national_cpi[year] / national_cpi[year - 1] - 1) * 100, 2),
+        "incomeChangePercent": round((income[year] / income[year - 1] - 1) * 100, 2),
     }
     for year in sorted(national_cpi.keys() & income.keys())
-    if 1970 <= year <= 2024
+    if 1970 <= year <= 2024 and year - 1 in national_cpi and year - 1 in income
 ]
 regions = {}
 for region, series_id in {
@@ -56,13 +54,14 @@ for region, series_id in {
     "West": "CUUR0400SAF11",
 }.items():
     observations = annual_means(series_id)
-    base_year = min(observations)
-    base = observations[base_year]
     regions[region] = {
         "seriesId": series_id,
-        "baseYear": base_year,
         "annual": [
-            {"year": year, "index": round(value / base * 100, 2)}
+            {
+                "year": year,
+                "changePercent": round((value / observations[year - 1] - 1) * 100, 2)
+                if year - 1 in observations else None,
+            }
             for year, value in sorted(observations.items()) if year <= 2024
         ],
     }
@@ -73,6 +72,10 @@ page = (ROOT / "index.html").read_text()
 page = replace_between(page, "<!-- GENERATED MAP START -->", "<!-- GENERATED MAP END -->", (ROOT / "data" / "us-map.svg").read_text().strip())
 page = replace_between(page, "<!-- GENERATED INDICATORS START -->", "<!-- GENERATED INDICATORS END -->", f'<script id="indicators" type="application/json">{json.dumps(indicators, separators=(",", ":"))}</script>')
 cex = json.loads((ROOT / "data" / "cex-snapshot.json").read_text())
+for snapshot in cex["snapshots"]:
+    for geography in (snapshot["regions"], snapshot["divisions"]):
+        for row in geography.values():
+            row["sharePercent"] = round(row["foodAtHome"] / row["income"] * 100, 2)
 page = replace_between(page, "<!-- GENERATED CEX START -->", "<!-- GENERATED CEX END -->", f'<script id="cex" type="application/json">{json.dumps(cex, separators=(",", ":"))}</script>')
 (ROOT / "index.html").write_text(page)
 print(f"Embedded {len(national)} complete national years through {national[-1]['year']}; refreshed {len(regions)} regional CPI series.")
