@@ -11,7 +11,7 @@ A static, source-first data story about grocery prices, personal income, and foo
 ## What the page shows
 
 1. **Indexed growth, 1970–2024.** The national food-at-home CPI-U and BEA personal income per capita each start at 100 in 1970. The map adds regional CPI-U growth from the first complete year, 1978. Division outlines inherit their region’s CPI value because the packaged BLS series does not provide a comparable division food-at-home index.
-2. **Food-at-home budget share, 2021–2022.** BLS average annual food-at-home expenditures divided by average annual income before taxes for consumer units. Both Census regions and divisions are available in the cited tables. This is a ratio of two averages, not the average of individual shares or a “typical household” measure. It is an overlapping two-year mean, not a one-year estimate.
+2. **Food-at-home budget share, 2021–2022.** BLS average annual food-at-home expenditures divided by average annual income before taxes for consumer units. “At home” describes where food is purchased: grocery-store food counts even if eaten elsewhere; restaurant takeout and delivery count as “away from home,” even if eaten at home. Both Census regions and divisions are available in the cited tables. This is a ratio of two averages, not the average of individual shares or a “typical household” measure. It is an overlapping two-year mean, not a one-year estimate.
 
 The map’s state outlines are for orientation. Statistics belong to regions/divisions, never individual states. The map and synchronized list can be operated by pointer or keyboard. A screen-reader-friendly detail panel and source notes accompany the visuals.
 
