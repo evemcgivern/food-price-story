@@ -44,7 +44,7 @@ features=[feature_by_id[x] for x in sorted(used) if x in feature_by_id]
 coords=[p for f in features for ring in rings_for(f) for p in ring]
 minx=min(x for x,y in coords); maxx=max(x for x,y in coords); miny=min(y for x,y in coords); maxy=max(y for x,y in coords)
 width=960;height=590;pad=8;scale=min((width-2*pad)/(maxx-minx),(height-2*pad)/(maxy-miny))
-def xy(p): return (pad+(p[0]-minx)*scale,height-pad-(p[1]-miny)*scale)
+def xy(p): return (pad+(p[0]-minx)*scale,pad+(p[1]-miny)*scale)
 parts=[f'<svg viewBox="0 0 {width} {height}" role="group" aria-label="Map of the United States colored by Census division" xmlns="http://www.w3.org/2000/svg">']
 for div,info in divisions.items():
     fid=[feature_by_id[x] for x in info['states'] if x in feature_by_id]
