@@ -10,8 +10,8 @@ A static, source-first data story about grocery prices, personal income, and foo
 
 ## What the page shows
 
-1. **Annual change, 1970–2024.** The national chart compares each year’s percent change in annual-average food-at-home CPI-U with nominal personal income per capita. The map shows regional year-over-year CPI change from 1979; 1978 is the first complete regional year and provides the comparison baseline. Use Play to animate the annual map through 2024 or scrub to a year. Division outlines inherit their region’s CPI change because the packaged BLS series does not provide a comparable division food-at-home index.
-2. **Food-at-home budget share, 2017–2018 through 2021–2022.** BLS average annual food-at-home expenditures divided by average annual income before taxes for consumer units. “At home” describes where food is purchased: grocery-store food counts even if eaten elsewhere; restaurant takeout and delivery count as “away from home,” even if eaten at home. Both Census regions and divisions are available in the cited tables. Use Play or scrub to move through five overlapping two-year snapshots; the newer 2022–2023 and 2023–2024 spreadsheets are listed on the [BLS geographic table index](https://www.bls.gov/cex/tables/geographic/mean.htm) but are not included in this package. This is a ratio of two averages, not the average of individual shares or a “typical household” measure. Each point is an overlapping two-year mean, not a one-year estimate.
+1. **Cumulative food-price growth, 1978–2024.** The map shows each region’s annual-average food-at-home CPI-U increase relative to its 1978 index. Use Play or scrub through 1979–2024 to watch the cumulative increase build. Division outlines inherit their region’s rate because BLS does not provide a comparable division food-at-home CPI series. The national chart separately compares annual price and income growth.
+2. **Food-at-home budget share, 2017–2018 through 2023–2024.** The detail shows BLS average annual food-at-home expenditures divided by average annual income before taxes for consumer units. Map color shows the percentage-point change in that share since 2017–2018; the current share remains visible in the detail. “At home” describes where food is purchased: grocery-store food counts even if eaten elsewhere; restaurant takeout and delivery count as “away from home,” even if eaten at home. Both Census regions and divisions are available in the cited tables. Use Play or scrub to move through seven overlapping two-year snapshots. This is a ratio of two averages, not the average of individual shares or a “typical household” measure. Each point is an overlapping two-year mean, not a one-year estimate.
 
 The map’s state outlines are for orientation. Statistics belong to regions/divisions, never individual states. The map and synchronized list can be operated by pointer or keyboard. A screen-reader-friendly detail panel and source notes accompany the visuals.
 
@@ -28,7 +28,8 @@ Raw annual source observations and processed snapshots live in `data/`.
 
 - CPI is an index of price change, not household spending in dollars.
 - BEA personal income per capita is not wages, take-home pay, or median income. The comparison is about broad nominal growth rates, not full affordability.
-- Annual price and income changes compare each year’s annual value with the prior year. Regional CPI change begins in 1979 because 1978 supplies the first full regional annual average.
+- The national chart’s price and income changes compare each year’s annual value with the prior year. Map price growth compares each selected annual CPI average with its region’s 1978 average.
+- Food-budget-share map changes are percentage-point differences from each geography’s 2017–2018 ratio of means.
 - Annual CPI values are arithmetic averages of the twelve monthly non-seasonally-adjusted observations. The packaged personal-income series is annual.
 - The regional/division spending snapshot is a two-calendar-year BLS table. A ratio of the reported means does not reveal how food spending is distributed within the geography.
 - No state-level food-price or spending observation is included.

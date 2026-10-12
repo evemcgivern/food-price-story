@@ -392,191 +392,285 @@
       "annual": [
         {
           "year": 1978,
-          "changePercent": null
+          "cpi": 74.092,
+          "changePercent": null,
+          "cumulativeChangePercent": 0.0
         },
         {
           "year": 1979,
-          "changePercent": 10.18
+          "cpi": 81.633,
+          "changePercent": 10.18,
+          "cumulativeChangePercent": 10.18
         },
         {
           "year": 1980,
-          "changePercent": 8.14
+          "cpi": 88.275,
+          "changePercent": 8.14,
+          "cumulativeChangePercent": 19.14
         },
         {
           "year": 1981,
-          "changePercent": 7.17
+          "cpi": 94.6,
+          "changePercent": 7.17,
+          "cumulativeChangePercent": 27.68
         },
         {
           "year": 1982,
-          "changePercent": 3.7
+          "cpi": 98.1,
+          "changePercent": 3.7,
+          "cumulativeChangePercent": 32.4
         },
         {
           "year": 1983,
-          "changePercent": 1.14
+          "cpi": 99.217,
+          "changePercent": 1.14,
+          "cumulativeChangePercent": 33.91
         },
         {
           "year": 1984,
-          "changePercent": 3.48
+          "cpi": 102.667,
+          "changePercent": 3.48,
+          "cumulativeChangePercent": 38.57
         },
         {
           "year": 1985,
-          "changePercent": 2.05
+          "cpi": 104.767,
+          "changePercent": 2.05,
+          "cumulativeChangePercent": 41.4
         },
         {
           "year": 1986,
-          "changePercent": 3.09
+          "cpi": 108.008,
+          "changePercent": 3.09,
+          "cumulativeChangePercent": 45.78
         },
         {
           "year": 1987,
-          "changePercent": 5.22
+          "cpi": 113.65,
+          "changePercent": 5.22,
+          "cumulativeChangePercent": 53.39
         },
         {
           "year": 1988,
-          "changePercent": 4.69
+          "cpi": 118.975,
+          "changePercent": 4.69,
+          "cumulativeChangePercent": 60.58
         },
         {
           "year": 1989,
-          "changePercent": 6.9
+          "cpi": 127.183,
+          "changePercent": 6.9,
+          "cumulativeChangePercent": 71.66
         },
         {
           "year": 1990,
-          "changePercent": 6.6
+          "cpi": 135.575,
+          "changePercent": 6.6,
+          "cumulativeChangePercent": 82.98
         },
         {
           "year": 1991,
-          "changePercent": 2.75
+          "cpi": 139.3,
+          "changePercent": 2.75,
+          "cumulativeChangePercent": 88.01
         },
         {
           "year": 1992,
-          "changePercent": 1.56
+          "cpi": 141.475,
+          "changePercent": 1.56,
+          "cumulativeChangePercent": 90.95
         },
         {
           "year": 1993,
-          "changePercent": 2.72
+          "cpi": 145.317,
+          "changePercent": 2.72,
+          "cumulativeChangePercent": 96.13
         },
         {
           "year": 1994,
-          "changePercent": 2.71
+          "cpi": 149.25,
+          "changePercent": 2.71,
+          "cumulativeChangePercent": 101.44
         },
         {
           "year": 1995,
-          "changePercent": 3.13
+          "cpi": 153.917,
+          "changePercent": 3.13,
+          "cumulativeChangePercent": 107.74
         },
         {
           "year": 1996,
-          "changePercent": 2.91
+          "cpi": 158.4,
+          "changePercent": 2.91,
+          "cumulativeChangePercent": 113.79
         },
         {
           "year": 1997,
-          "changePercent": 1.79
+          "cpi": 161.242,
+          "changePercent": 1.79,
+          "cumulativeChangePercent": 117.62
         },
         {
           "year": 1998,
-          "changePercent": 1.43
+          "cpi": 163.55,
+          "changePercent": 1.43,
+          "cumulativeChangePercent": 120.74
         },
         {
           "year": 1999,
-          "changePercent": 2.16
+          "cpi": 167.083,
+          "changePercent": 2.16,
+          "cumulativeChangePercent": 125.51
         },
         {
           "year": 2000,
-          "changePercent": 1.63
+          "cpi": 169.8,
+          "changePercent": 1.63,
+          "cumulativeChangePercent": 129.17
         },
         {
           "year": 2001,
-          "changePercent": 3.16
+          "cpi": 175.158,
+          "changePercent": 3.16,
+          "cumulativeChangePercent": 136.41
         },
         {
           "year": 2002,
-          "changePercent": 1.13
+          "cpi": 177.133,
+          "changePercent": 1.13,
+          "cumulativeChangePercent": 139.07
         },
         {
           "year": 2003,
-          "changePercent": 2.22
+          "cpi": 181.067,
+          "changePercent": 2.22,
+          "cumulativeChangePercent": 144.38
         },
         {
           "year": 2004,
-          "changePercent": 4.41
+          "cpi": 189.05,
+          "changePercent": 4.41,
+          "cumulativeChangePercent": 155.16
         },
         {
           "year": 2005,
-          "changePercent": 2.67
+          "cpi": 194.1,
+          "changePercent": 2.67,
+          "cumulativeChangePercent": 161.97
         },
         {
           "year": 2006,
-          "changePercent": 2.24
+          "cpi": 198.45,
+          "changePercent": 2.24,
+          "cumulativeChangePercent": 167.84
         },
         {
           "year": 2007,
-          "changePercent": 3.93
+          "cpi": 206.249,
+          "changePercent": 3.93,
+          "cumulativeChangePercent": 178.37
         },
         {
           "year": 2008,
-          "changePercent": 6.2
+          "cpi": 219.029,
+          "changePercent": 6.2,
+          "cumulativeChangePercent": 195.62
         },
         {
           "year": 2009,
-          "changePercent": 0.99
+          "cpi": 221.192,
+          "changePercent": 0.99,
+          "cumulativeChangePercent": 198.54
         },
         {
           "year": 2010,
-          "changePercent": 0.95
+          "cpi": 223.284,
+          "changePercent": 0.95,
+          "cumulativeChangePercent": 201.36
         },
         {
           "year": 2011,
-          "changePercent": 4.3
+          "cpi": 232.89,
+          "changePercent": 4.3,
+          "cumulativeChangePercent": 214.33
         },
         {
           "year": 2012,
-          "changePercent": 2.74
+          "cpi": 239.274,
+          "changePercent": 2.74,
+          "cumulativeChangePercent": 222.94
         },
         {
           "year": 2013,
-          "changePercent": 0.83
+          "cpi": 241.271,
+          "changePercent": 0.83,
+          "cumulativeChangePercent": 225.64
         },
         {
           "year": 2014,
-          "changePercent": 1.71
+          "cpi": 245.39,
+          "changePercent": 1.71,
+          "cumulativeChangePercent": 231.2
         },
         {
           "year": 2015,
-          "changePercent": 1.38
+          "cpi": 248.776,
+          "changePercent": 1.38,
+          "cumulativeChangePercent": 235.77
         },
         {
           "year": 2016,
-          "changePercent": -1.34
+          "cpi": 245.449,
+          "changePercent": -1.34,
+          "cumulativeChangePercent": 231.28
         },
         {
           "year": 2017,
-          "changePercent": 0.15
+          "cpi": 245.828,
+          "changePercent": 0.15,
+          "cumulativeChangePercent": 231.79
         },
         {
           "year": 2018,
-          "changePercent": 1.23
+          "cpi": 248.86,
+          "changePercent": 1.23,
+          "cumulativeChangePercent": 235.88
         },
         {
           "year": 2019,
-          "changePercent": 0.8
+          "cpi": 250.853,
+          "changePercent": 0.8,
+          "cumulativeChangePercent": 238.57
         },
         {
           "year": 2020,
-          "changePercent": 3.43
+          "cpi": 259.449,
+          "changePercent": 3.43,
+          "cumulativeChangePercent": 250.17
         },
         {
           "year": 2021,
-          "changePercent": 2.35
+          "cpi": 265.541,
+          "changePercent": 2.35,
+          "cumulativeChangePercent": 258.39
         },
         {
           "year": 2022,
-          "changePercent": 10.12
+          "cpi": 292.419,
+          "changePercent": 10.12,
+          "cumulativeChangePercent": 294.67
         },
         {
           "year": 2023,
-          "changePercent": 4.78
+          "cpi": 306.401,
+          "changePercent": 4.78,
+          "cumulativeChangePercent": 313.54
         },
         {
           "year": 2024,
-          "changePercent": 0.9
+          "cpi": 309.168,
+          "changePercent": 0.9,
+          "cumulativeChangePercent": 317.28
         }
       ]
     },
@@ -585,191 +679,285 @@
       "annual": [
         {
           "year": 1978,
-          "changePercent": null
+          "cpi": 75.317,
+          "changePercent": null,
+          "cumulativeChangePercent": 0.0
         },
         {
           "year": 1979,
-          "changePercent": 10.68
+          "cpi": 83.358,
+          "changePercent": 10.68,
+          "cumulativeChangePercent": 10.68
         },
         {
           "year": 1980,
-          "changePercent": 7.62
+          "cpi": 89.708,
+          "changePercent": 7.62,
+          "cumulativeChangePercent": 19.11
         },
         {
           "year": 1981,
-          "changePercent": 6.79
+          "cpi": 95.8,
+          "changePercent": 6.79,
+          "cumulativeChangePercent": 27.2
         },
         {
           "year": 1982,
-          "changePercent": 3.07
+          "cpi": 98.742,
+          "changePercent": 3.07,
+          "cumulativeChangePercent": 31.1
         },
         {
           "year": 1983,
-          "changePercent": 0.29
+          "cpi": 99.033,
+          "changePercent": 0.29,
+          "cumulativeChangePercent": 31.49
         },
         {
           "year": 1984,
-          "changePercent": 3.23
+          "cpi": 102.233,
+          "changePercent": 3.23,
+          "cumulativeChangePercent": 35.74
         },
         {
           "year": 1985,
-          "changePercent": 0.96
+          "cpi": 103.217,
+          "changePercent": 0.96,
+          "cumulativeChangePercent": 37.04
         },
         {
           "year": 1986,
-          "changePercent": 3.11
+          "cpi": 106.425,
+          "changePercent": 3.11,
+          "cumulativeChangePercent": 41.3
         },
         {
           "year": 1987,
-          "changePercent": 4.25
+          "cpi": 110.95,
+          "changePercent": 4.25,
+          "cumulativeChangePercent": 47.31
         },
         {
           "year": 1988,
-          "changePercent": 3.78
+          "cpi": 115.142,
+          "changePercent": 3.78,
+          "cumulativeChangePercent": 52.88
         },
         {
           "year": 1989,
-          "changePercent": 6.19
+          "cpi": 122.275,
+          "changePercent": 6.19,
+          "cumulativeChangePercent": 62.35
         },
         {
           "year": 1990,
-          "changePercent": 6.69
+          "cpi": 130.458,
+          "changePercent": 6.69,
+          "cumulativeChangePercent": 73.21
         },
         {
           "year": 1991,
-          "changePercent": 2.73
+          "cpi": 134.017,
+          "changePercent": 2.73,
+          "cumulativeChangePercent": 77.94
         },
         {
           "year": 1992,
-          "changePercent": 0.31
+          "cpi": 134.433,
+          "changePercent": 0.31,
+          "cumulativeChangePercent": 78.49
         },
         {
           "year": 1993,
-          "changePercent": 2.15
+          "cpi": 137.317,
+          "changePercent": 2.15,
+          "cumulativeChangePercent": 82.32
         },
         {
           "year": 1994,
-          "changePercent": 2.34
+          "cpi": 140.525,
+          "changePercent": 2.34,
+          "cumulativeChangePercent": 86.58
         },
         {
           "year": 1995,
-          "changePercent": 3.11
+          "cpi": 144.892,
+          "changePercent": 3.11,
+          "cumulativeChangePercent": 92.38
         },
         {
           "year": 1996,
-          "changePercent": 3.76
+          "cpi": 150.333,
+          "changePercent": 3.76,
+          "cumulativeChangePercent": 99.6
         },
         {
           "year": 1997,
-          "changePercent": 2.36
+          "cpi": 153.883,
+          "changePercent": 2.36,
+          "cumulativeChangePercent": 104.31
         },
         {
           "year": 1998,
-          "changePercent": 1.85
+          "cpi": 156.725,
+          "changePercent": 1.85,
+          "cumulativeChangePercent": 108.09
         },
         {
           "year": 1999,
-          "changePercent": 2.07
+          "cpi": 159.967,
+          "changePercent": 2.07,
+          "cumulativeChangePercent": 112.39
         },
         {
           "year": 2000,
-          "changePercent": 2.34
+          "cpi": 163.708,
+          "changePercent": 2.34,
+          "cumulativeChangePercent": 117.36
         },
         {
           "year": 2001,
-          "changePercent": 3.11
+          "cpi": 168.8,
+          "changePercent": 3.11,
+          "cumulativeChangePercent": 124.12
         },
         {
           "year": 2002,
-          "changePercent": 0.75
+          "cpi": 170.058,
+          "changePercent": 0.75,
+          "cumulativeChangePercent": 125.79
         },
         {
           "year": 2003,
-          "changePercent": 1.41
+          "cpi": 172.458,
+          "changePercent": 1.41,
+          "cumulativeChangePercent": 128.98
         },
         {
           "year": 2004,
-          "changePercent": 2.9
+          "cpi": 177.458,
+          "changePercent": 2.9,
+          "cumulativeChangePercent": 135.61
         },
         {
           "year": 2005,
-          "changePercent": 2.17
+          "cpi": 181.308,
+          "changePercent": 2.17,
+          "cumulativeChangePercent": 140.73
         },
         {
           "year": 2006,
-          "changePercent": 1.6
+          "cpi": 184.217,
+          "changePercent": 1.6,
+          "cumulativeChangePercent": 144.59
         },
         {
           "year": 2007,
-          "changePercent": 3.96
+          "cpi": 191.517,
+          "changePercent": 3.96,
+          "cumulativeChangePercent": 154.28
         },
         {
           "year": 2008,
-          "changePercent": 6.4
+          "cpi": 203.777,
+          "changePercent": 6.4,
+          "cumulativeChangePercent": 170.56
         },
         {
           "year": 2009,
-          "changePercent": 0.95
+          "cpi": 205.71,
+          "changePercent": 0.95,
+          "cumulativeChangePercent": 173.13
         },
         {
           "year": 2010,
-          "changePercent": 0.45
+          "cpi": 206.628,
+          "changePercent": 0.45,
+          "cumulativeChangePercent": 174.34
         },
         {
           "year": 2011,
-          "changePercent": 4.7
+          "cpi": 216.343,
+          "changePercent": 4.7,
+          "cumulativeChangePercent": 187.24
         },
         {
           "year": 2012,
-          "changePercent": 2.62
+          "cpi": 222.011,
+          "changePercent": 2.62,
+          "cumulativeChangePercent": 194.77
         },
         {
           "year": 2013,
-          "changePercent": 0.55
+          "cpi": 223.239,
+          "changePercent": 0.55,
+          "cumulativeChangePercent": 196.4
         },
         {
           "year": 2014,
-          "changePercent": 2.48
+          "cpi": 228.782,
+          "changePercent": 2.48,
+          "cumulativeChangePercent": 203.76
         },
         {
           "year": 2015,
-          "changePercent": 0.55
+          "cpi": 230.046,
+          "changePercent": 0.55,
+          "cumulativeChangePercent": 205.44
         },
         {
           "year": 2016,
-          "changePercent": -1.33
+          "cpi": 226.987,
+          "changePercent": -1.33,
+          "cumulativeChangePercent": 201.38
         },
         {
           "year": 2017,
-          "changePercent": -0.36
+          "cpi": 226.176,
+          "changePercent": -0.36,
+          "cumulativeChangePercent": 200.3
         },
         {
           "year": 2018,
-          "changePercent": 0.03
+          "cpi": 226.242,
+          "changePercent": 0.03,
+          "cumulativeChangePercent": 200.39
         },
         {
           "year": 2019,
-          "changePercent": 0.49
+          "cpi": 227.358,
+          "changePercent": 0.49,
+          "cumulativeChangePercent": 201.87
         },
         {
           "year": 2020,
-          "changePercent": 2.89
+          "cpi": 233.921,
+          "changePercent": 2.89,
+          "cumulativeChangePercent": 210.58
         },
         {
           "year": 2021,
-          "changePercent": 3.43
+          "cpi": 241.943,
+          "changePercent": 3.43,
+          "cumulativeChangePercent": 221.23
         },
         {
           "year": 2022,
-          "changePercent": 12.86
+          "cpi": 273.049,
+          "changePercent": 12.86,
+          "cumulativeChangePercent": 262.53
         },
         {
           "year": 2023,
-          "changePercent": 5.22
+          "cpi": 287.293,
+          "changePercent": 5.22,
+          "cumulativeChangePercent": 281.45
         },
         {
           "year": 2024,
-          "changePercent": 1.12
+          "cpi": 290.499,
+          "changePercent": 1.12,
+          "cumulativeChangePercent": 285.7
         }
       ]
     },
@@ -778,191 +966,285 @@
       "annual": [
         {
           "year": 1978,
-          "changePercent": null
+          "cpi": 73.15,
+          "changePercent": null,
+          "cumulativeChangePercent": 0.0
         },
         {
           "year": 1979,
-          "changePercent": 11.19
+          "cpi": 81.333,
+          "changePercent": 11.19,
+          "cumulativeChangePercent": 11.19
         },
         {
           "year": 1980,
-          "changePercent": 8.38
+          "cpi": 88.15,
+          "changePercent": 8.38,
+          "cumulativeChangePercent": 20.51
         },
         {
           "year": 1981,
-          "changePercent": 7.55
+          "cpi": 94.808,
+          "changePercent": 7.55,
+          "cumulativeChangePercent": 29.61
         },
         {
           "year": 1982,
-          "changePercent": 3.11
+          "cpi": 97.758,
+          "changePercent": 3.11,
+          "cumulativeChangePercent": 33.64
         },
         {
           "year": 1983,
-          "changePercent": 1.24
+          "cpi": 98.975,
+          "changePercent": 1.24,
+          "cumulativeChangePercent": 35.3
         },
         {
           "year": 1984,
-          "changePercent": 4.33
+          "cpi": 103.258,
+          "changePercent": 4.33,
+          "cumulativeChangePercent": 41.16
         },
         {
           "year": 1985,
-          "changePercent": 0.92
+          "cpi": 104.208,
+          "changePercent": 0.92,
+          "cumulativeChangePercent": 42.46
         },
         {
           "year": 1986,
-          "changePercent": 2.7
+          "cpi": 107.017,
+          "changePercent": 2.7,
+          "cumulativeChangePercent": 46.3
         },
         {
           "year": 1987,
-          "changePercent": 3.8
+          "cpi": 111.083,
+          "changePercent": 3.8,
+          "cumulativeChangePercent": 51.86
         },
         {
           "year": 1988,
-          "changePercent": 4.0
+          "cpi": 115.525,
+          "changePercent": 4.0,
+          "cumulativeChangePercent": 57.93
         },
         {
           "year": 1989,
-          "changePercent": 6.3
+          "cpi": 122.808,
+          "changePercent": 6.3,
+          "cumulativeChangePercent": 67.89
         },
         {
           "year": 1990,
-          "changePercent": 6.35
+          "cpi": 130.608,
+          "changePercent": 6.35,
+          "cumulativeChangePercent": 78.55
         },
         {
           "year": 1991,
-          "changePercent": 1.9
+          "cpi": 133.092,
+          "changePercent": 1.9,
+          "cumulativeChangePercent": 81.94
         },
         {
           "year": 1992,
-          "changePercent": 0.02
+          "cpi": 133.117,
+          "changePercent": 0.02,
+          "cumulativeChangePercent": 81.98
         },
         {
           "year": 1993,
-          "changePercent": 1.9
+          "cpi": 135.65,
+          "changePercent": 1.9,
+          "cumulativeChangePercent": 85.44
         },
         {
           "year": 1994,
-          "changePercent": 3.37
+          "cpi": 140.217,
+          "changePercent": 3.37,
+          "cumulativeChangePercent": 91.68
         },
         {
           "year": 1995,
-          "changePercent": 3.3
+          "cpi": 144.842,
+          "changePercent": 3.3,
+          "cumulativeChangePercent": 98.01
         },
         {
           "year": 1996,
-          "changePercent": 4.62
+          "cpi": 151.533,
+          "changePercent": 4.62,
+          "cumulativeChangePercent": 107.15
         },
         {
           "year": 1997,
-          "changePercent": 2.45
+          "cpi": 155.25,
+          "changePercent": 2.45,
+          "cumulativeChangePercent": 112.24
         },
         {
           "year": 1998,
-          "changePercent": 1.52
+          "cpi": 157.617,
+          "changePercent": 1.52,
+          "cumulativeChangePercent": 115.47
         },
         {
           "year": 1999,
-          "changePercent": 1.55
+          "cpi": 160.058,
+          "changePercent": 1.55,
+          "cumulativeChangePercent": 118.81
         },
         {
           "year": 2000,
-          "changePercent": 2.73
+          "cpi": 164.425,
+          "changePercent": 2.73,
+          "cumulativeChangePercent": 124.78
         },
         {
           "year": 2001,
-          "changePercent": 2.86
+          "cpi": 169.125,
+          "changePercent": 2.86,
+          "cumulativeChangePercent": 131.2
         },
         {
           "year": 2002,
-          "changePercent": 1.27
+          "cpi": 171.267,
+          "changePercent": 1.27,
+          "cumulativeChangePercent": 134.13
         },
         {
           "year": 2003,
-          "changePercent": 2.2
+          "cpi": 175.042,
+          "changePercent": 2.2,
+          "cumulativeChangePercent": 139.29
         },
         {
           "year": 2004,
-          "changePercent": 3.93
+          "cpi": 181.925,
+          "changePercent": 3.93,
+          "cumulativeChangePercent": 148.7
         },
         {
           "year": 2005,
-          "changePercent": 2.0
+          "cpi": 185.567,
+          "changePercent": 2.0,
+          "cumulativeChangePercent": 153.68
         },
         {
           "year": 2006,
-          "changePercent": 1.98
+          "cpi": 189.233,
+          "changePercent": 1.98,
+          "cumulativeChangePercent": 158.69
         },
         {
           "year": 2007,
-          "changePercent": 4.18
+          "cpi": 197.135,
+          "changePercent": 4.18,
+          "cumulativeChangePercent": 169.49
         },
         {
           "year": 2008,
-          "changePercent": 6.72
+          "cpi": 210.389,
+          "changePercent": 6.72,
+          "cumulativeChangePercent": 187.61
         },
         {
           "year": 2009,
-          "changePercent": 0.76
+          "cpi": 211.992,
+          "changePercent": 0.76,
+          "cumulativeChangePercent": 189.8
         },
         {
           "year": 2010,
-          "changePercent": 0.59
+          "cpi": 213.24,
+          "changePercent": 0.59,
+          "cumulativeChangePercent": 191.51
         },
         {
           "year": 2011,
-          "changePercent": 5.12
+          "cpi": 224.155,
+          "changePercent": 5.12,
+          "cumulativeChangePercent": 206.43
         },
         {
           "year": 2012,
-          "changePercent": 2.7
+          "cpi": 230.211,
+          "changePercent": 2.7,
+          "cumulativeChangePercent": 214.71
         },
         {
           "year": 2013,
-          "changePercent": 1.19
+          "cpi": 232.947,
+          "changePercent": 1.19,
+          "cumulativeChangePercent": 218.45
         },
         {
           "year": 2014,
-          "changePercent": 2.44
+          "cpi": 238.624,
+          "changePercent": 2.44,
+          "cumulativeChangePercent": 226.21
         },
         {
           "year": 2015,
-          "changePercent": 1.03
+          "cpi": 241.087,
+          "changePercent": 1.03,
+          "cumulativeChangePercent": 229.58
         },
         {
           "year": 2016,
-          "changePercent": -1.42
+          "cpi": 237.662,
+          "changePercent": -1.42,
+          "cumulativeChangePercent": 224.9
         },
         {
           "year": 2017,
-          "changePercent": -0.22
+          "cpi": 237.134,
+          "changePercent": -0.22,
+          "cumulativeChangePercent": 224.17
         },
         {
           "year": 2018,
-          "changePercent": 0.3
+          "cpi": 237.843,
+          "changePercent": 0.3,
+          "cumulativeChangePercent": 225.14
         },
         {
           "year": 2019,
-          "changePercent": 0.69
+          "cpi": 239.48,
+          "changePercent": 0.69,
+          "cumulativeChangePercent": 227.38
         },
         {
           "year": 2020,
-          "changePercent": 3.52
+          "cpi": 247.907,
+          "changePercent": 3.52,
+          "cumulativeChangePercent": 238.9
         },
         {
           "year": 2021,
-          "changePercent": 3.43
+          "cpi": 256.422,
+          "changePercent": 3.43,
+          "cumulativeChangePercent": 250.54
         },
         {
           "year": 2022,
-          "changePercent": 11.38
+          "cpi": 285.6,
+          "changePercent": 11.38,
+          "cumulativeChangePercent": 290.43
         },
         {
           "year": 2023,
-          "changePercent": 5.34
+          "cpi": 300.862,
+          "changePercent": 5.34,
+          "cumulativeChangePercent": 311.29
         },
         {
           "year": 2024,
-          "changePercent": 1.24
+          "cpi": 304.604,
+          "changePercent": 1.24,
+          "cumulativeChangePercent": 316.41
         }
       ]
     },
@@ -971,191 +1253,285 @@
       "annual": [
         {
           "year": 1978,
-          "changePercent": null
+          "cpi": 72.383,
+          "changePercent": null,
+          "cumulativeChangePercent": 0.0
         },
         {
           "year": 1979,
-          "changePercent": 11.35
+          "cpi": 80.6,
+          "changePercent": 11.35,
+          "cumulativeChangePercent": 11.35
         },
         {
           "year": 1980,
-          "changePercent": 7.83
+          "cpi": 86.908,
+          "changePercent": 7.83,
+          "cumulativeChangePercent": 20.07
         },
         {
           "year": 1981,
-          "changePercent": 7.97
+          "cpi": 93.833,
+          "changePercent": 7.97,
+          "cumulativeChangePercent": 29.63
         },
         {
           "year": 1982,
-          "changePercent": 4.01
+          "cpi": 97.6,
+          "changePercent": 4.01,
+          "cumulativeChangePercent": 34.84
         },
         {
           "year": 1983,
-          "changePercent": 1.74
+          "cpi": 99.3,
+          "changePercent": 1.74,
+          "cumulativeChangePercent": 37.19
         },
         {
           "year": 1984,
-          "changePercent": 3.78
+          "cpi": 103.058,
+          "changePercent": 3.78,
+          "cumulativeChangePercent": 42.38
         },
         {
           "year": 1985,
-          "changePercent": 1.85
+          "cpi": 104.967,
+          "changePercent": 1.85,
+          "cumulativeChangePercent": 45.02
         },
         {
           "year": 1986,
-          "changePercent": 2.37
+          "cpi": 107.458,
+          "changePercent": 2.37,
+          "cumulativeChangePercent": 48.46
         },
         {
           "year": 1987,
-          "changePercent": 3.9
+          "cpi": 111.65,
+          "changePercent": 3.9,
+          "cumulativeChangePercent": 54.25
         },
         {
           "year": 1988,
-          "changePercent": 4.25
+          "cpi": 116.392,
+          "changePercent": 4.25,
+          "cumulativeChangePercent": 60.8
         },
         {
           "year": 1989,
-          "changePercent": 7.0
+          "cpi": 124.542,
+          "changePercent": 7.0,
+          "cumulativeChangePercent": 72.06
         },
         {
           "year": 1990,
-          "changePercent": 6.48
+          "cpi": 132.617,
+          "changePercent": 6.48,
+          "cumulativeChangePercent": 83.22
         },
         {
           "year": 1991,
-          "changePercent": 3.45
+          "cpi": 137.192,
+          "changePercent": 3.45,
+          "cumulativeChangePercent": 89.54
         },
         {
           "year": 1992,
-          "changePercent": 1.08
+          "cpi": 138.675,
+          "changePercent": 1.08,
+          "cumulativeChangePercent": 91.59
         },
         {
           "year": 1993,
-          "changePercent": 2.8
+          "cpi": 142.558,
+          "changePercent": 2.8,
+          "cumulativeChangePercent": 96.95
         },
         {
           "year": 1994,
-          "changePercent": 3.03
+          "cpi": 146.875,
+          "changePercent": 3.03,
+          "cumulativeChangePercent": 102.91
         },
         {
           "year": 1995,
-          "changePercent": 3.43
+          "cpi": 151.908,
+          "changePercent": 3.43,
+          "cumulativeChangePercent": 109.87
         },
         {
           "year": 1996,
-          "changePercent": 3.58
+          "cpi": 157.35,
+          "changePercent": 3.58,
+          "cumulativeChangePercent": 117.39
         },
         {
           "year": 1997,
-          "changePercent": 3.48
+          "cpi": 162.825,
+          "changePercent": 3.48,
+          "cumulativeChangePercent": 124.95
         },
         {
           "year": 1998,
-          "changePercent": 3.06
+          "cpi": 167.8,
+          "changePercent": 3.06,
+          "cumulativeChangePercent": 131.82
         },
         {
           "year": 1999,
-          "changePercent": 2.04
+          "cpi": 171.225,
+          "changePercent": 2.04,
+          "cumulativeChangePercent": 136.55
         },
         {
           "year": 2000,
-          "changePercent": 2.05
+          "cpi": 174.733,
+          "changePercent": 2.05,
+          "cumulativeChangePercent": 141.4
         },
         {
           "year": 2001,
-          "changePercent": 4.14
+          "cpi": 181.975,
+          "changePercent": 4.14,
+          "cumulativeChangePercent": 151.41
         },
         {
           "year": 2002,
-          "changePercent": 1.9
+          "cpi": 185.433,
+          "changePercent": 1.9,
+          "cumulativeChangePercent": 156.18
         },
         {
           "year": 2003,
-          "changePercent": 2.66
+          "cpi": 190.358,
+          "changePercent": 2.66,
+          "cumulativeChangePercent": 162.99
         },
         {
           "year": 2004,
-          "changePercent": 3.76
+          "cpi": 197.517,
+          "changePercent": 3.76,
+          "cumulativeChangePercent": 172.88
         },
         {
           "year": 2005,
-          "changePercent": 0.92
+          "cpi": 199.342,
+          "changePercent": 0.92,
+          "cumulativeChangePercent": 175.4
         },
         {
           "year": 2006,
-          "changePercent": 1.17
+          "cpi": 201.675,
+          "changePercent": 1.17,
+          "cumulativeChangePercent": 178.62
         },
         {
           "year": 2007,
-          "changePercent": 4.72
+          "cpi": 211.197,
+          "changePercent": 4.72,
+          "cumulativeChangePercent": 191.78
         },
         {
           "year": 2008,
-          "changePercent": 6.17
+          "cpi": 224.226,
+          "changePercent": 6.17,
+          "cumulativeChangePercent": 209.78
         },
         {
           "year": 2009,
-          "changePercent": -0.73
+          "cpi": 222.594,
+          "changePercent": -0.73,
+          "cumulativeChangePercent": 207.52
         },
         {
           "year": 2010,
-          "changePercent": -0.6
+          "cpi": 221.258,
+          "changePercent": -0.6,
+          "cumulativeChangePercent": 205.68
         },
         {
           "year": 2011,
-          "changePercent": 4.89
+          "cpi": 232.07,
+          "changePercent": 4.89,
+          "cumulativeChangePercent": 220.61
         },
         {
           "year": 2012,
-          "changePercent": 1.8
+          "cpi": 236.257,
+          "changePercent": 1.8,
+          "cumulativeChangePercent": 226.4
         },
         {
           "year": 2013,
-          "changePercent": 0.9
+          "cpi": 238.372,
+          "changePercent": 0.9,
+          "cumulativeChangePercent": 229.32
         },
         {
           "year": 2014,
-          "changePercent": 2.79
+          "cpi": 245.027,
+          "changePercent": 2.79,
+          "cumulativeChangePercent": 238.51
         },
         {
           "year": 2015,
-          "changePercent": 1.68
+          "cpi": 249.133,
+          "changePercent": 1.68,
+          "cumulativeChangePercent": 244.19
         },
         {
           "year": 2016,
-          "changePercent": -1.15
+          "cpi": 246.274,
+          "changePercent": -1.15,
+          "cumulativeChangePercent": 240.24
         },
         {
           "year": 2017,
-          "changePercent": -0.31
+          "cpi": 245.512,
+          "changePercent": -0.31,
+          "cumulativeChangePercent": 239.18
         },
         {
           "year": 2018,
-          "changePercent": 0.44
+          "cpi": 246.585,
+          "changePercent": 0.44,
+          "cumulativeChangePercent": 240.67
         },
         {
           "year": 2019,
-          "changePercent": 1.52
+          "cpi": 250.343,
+          "changePercent": 1.52,
+          "cumulativeChangePercent": 245.86
         },
         {
           "year": 2020,
-          "changePercent": 3.99
+          "cpi": 260.326,
+          "changePercent": 3.99,
+          "cumulativeChangePercent": 259.65
         },
         {
           "year": 2021,
-          "changePercent": 4.36
+          "cpi": 271.68,
+          "changePercent": 4.36,
+          "cumulativeChangePercent": 275.34
         },
         {
           "year": 2022,
-          "changePercent": 11.4
+          "cpi": 302.663,
+          "changePercent": 11.4,
+          "cumulativeChangePercent": 318.14
         },
         {
           "year": 2023,
-          "changePercent": 4.63
+          "cpi": 316.67,
+          "changePercent": 4.63,
+          "cumulativeChangePercent": 337.49
         },
         {
           "year": 2024,
-          "changePercent": 1.4
+          "cpi": 321.101,
+          "changePercent": 1.4,
+          "cumulativeChangePercent": 343.61
         }
       ]
     }
