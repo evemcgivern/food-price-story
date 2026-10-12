@@ -54,13 +54,17 @@ for region, series_id in {
     "West": "CUUR0400SAF11",
 }.items():
     observations = annual_means(series_id)
+    baseline = observations.get(1978)
     regions[region] = {
         "seriesId": series_id,
         "annual": [
             {
                 "year": year,
+                "cpi": value,
                 "changePercent": round((value / observations[year - 1] - 1) * 100, 2)
                 if year - 1 in observations else None,
+                "cumulativeChangePercent": round((value / baseline - 1) * 100, 2)
+                if baseline else None,
             }
             for year, value in sorted(observations.items()) if year <= 2024
         ],
@@ -76,6 +80,16 @@ for snapshot in cex["snapshots"]:
     for geography in (snapshot["regions"], snapshot["divisions"]):
         for row in geography.values():
             row["sharePercent"] = round(row["foodAtHome"] / row["income"] * 100, 2)
+base = cex["snapshots"][0]
+for snapshot in cex["snapshots"]:
+    for key in ("regions", "divisions"):
+        for name, row in snapshot[key].items():
+            row["changeSinceStartPp"] = round(
+                row["foodAtHome"] / row["income"] * 100
+                - base[key][name]["foodAtHome"] / base[key][name]["income"] * 100,
+                2,
+            )
+(ROOT / "data" / "cex-snapshot.json").write_text(json.dumps(cex, indent=2) + "\n")
 page = replace_between(page, "<!-- GENERATED CEX START -->", "<!-- GENERATED CEX END -->", f'<script id="cex" type="application/json">{json.dumps(cex, separators=(",", ":"))}</script>')
 (ROOT / "index.html").write_text(page)
 print(f"Embedded {len(national)} complete national years through {national[-1]['year']}; refreshed {len(regions)} regional CPI series.")

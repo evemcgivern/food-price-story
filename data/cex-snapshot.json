@@ -2,113 +2,675 @@
   "source": "BLS Consumer Expenditure Survey geographic tables 1800 and 2700",
   "snapshots": [
     {
-      "period": "2017–2018",
+      "period": "2017\u20132018",
       "sourceRegion": "https://www.bls.gov/cex/tables/geographic/mean/cu-region-2-year-average-2018.pdf",
       "sourceDivision": "https://www.bls.gov/cex/tables/geographic/mean/cu-division-2-year-average-2018.pdf",
       "regions": {
-        "Northeast": {"income": 87793, "foodAtHome": 4775},
-        "Midwest": {"income": 71617, "foodAtHome": 4177},
-        "South": {"income": 69315, "foodAtHome": 4059},
-        "West": {"income": 82878, "foodAtHome": 4962}
+        "Northeast": {
+          "income": 87793,
+          "foodAtHome": 4775,
+          "sharePercent": 5.44,
+          "changeSinceStartPp": 0.0
+        },
+        "Midwest": {
+          "income": 71617,
+          "foodAtHome": 4177,
+          "sharePercent": 5.83,
+          "changeSinceStartPp": 0.0
+        },
+        "South": {
+          "income": 69315,
+          "foodAtHome": 4059,
+          "sharePercent": 5.86,
+          "changeSinceStartPp": 0.0
+        },
+        "West": {
+          "income": 82878,
+          "foodAtHome": 4962,
+          "sharePercent": 5.99,
+          "changeSinceStartPp": 0.0
+        }
       },
       "divisions": {
-        "New England": {"region": "Northeast", "income": 88042, "foodAtHome": 5008},
-        "Middle Atlantic": {"region": "Northeast", "income": 87701, "foodAtHome": 4686},
-        "East North Central": {"region": "Midwest", "income": 70459, "foodAtHome": 4174},
-        "West North Central": {"region": "Midwest", "income": 74066, "foodAtHome": 4183},
-        "South Atlantic": {"region": "South", "income": 72929, "foodAtHome": 4287},
-        "East South Central": {"region": "South", "income": 61380, "foodAtHome": 3967},
-        "West South Central": {"region": "South", "income": 67320, "foodAtHome": 3709},
-        "Mountain": {"region": "West", "income": 70534, "foodAtHome": 4854},
-        "Pacific": {"region": "West", "income": 88222, "foodAtHome": 5007}
+        "New England": {
+          "region": "Northeast",
+          "income": 88042,
+          "foodAtHome": 5008,
+          "sharePercent": 5.69,
+          "changeSinceStartPp": 0.0
+        },
+        "Middle Atlantic": {
+          "region": "Northeast",
+          "income": 87701,
+          "foodAtHome": 4686,
+          "sharePercent": 5.34,
+          "changeSinceStartPp": 0.0
+        },
+        "East North Central": {
+          "region": "Midwest",
+          "income": 70459,
+          "foodAtHome": 4174,
+          "sharePercent": 5.92,
+          "changeSinceStartPp": 0.0
+        },
+        "West North Central": {
+          "region": "Midwest",
+          "income": 74066,
+          "foodAtHome": 4183,
+          "sharePercent": 5.65,
+          "changeSinceStartPp": 0.0
+        },
+        "South Atlantic": {
+          "region": "South",
+          "income": 72929,
+          "foodAtHome": 4287,
+          "sharePercent": 5.88,
+          "changeSinceStartPp": 0.0
+        },
+        "East South Central": {
+          "region": "South",
+          "income": 61380,
+          "foodAtHome": 3967,
+          "sharePercent": 6.46,
+          "changeSinceStartPp": 0.0
+        },
+        "West South Central": {
+          "region": "South",
+          "income": 67320,
+          "foodAtHome": 3709,
+          "sharePercent": 5.51,
+          "changeSinceStartPp": 0.0
+        },
+        "Mountain": {
+          "region": "West",
+          "income": 70534,
+          "foodAtHome": 4854,
+          "sharePercent": 6.88,
+          "changeSinceStartPp": 0.0
+        },
+        "Pacific": {
+          "region": "West",
+          "income": 88222,
+          "foodAtHome": 5007,
+          "sharePercent": 5.68,
+          "changeSinceStartPp": 0.0
+        }
       }
     },
     {
-      "period": "2018–2019",
+      "period": "2018\u20132019",
       "sourceRegion": "https://www.bls.gov/cex/tables/geographic/mean/cu-region-2-year-average-2019.pdf",
       "sourceDivision": "https://www.bls.gov/cex/tables/geographic/mean/cu-division-2-year-average-2019.pdf",
       "regions": {
-        "Northeast": {"income": 90625, "foodAtHome": 5018},
-        "Midwest": {"income": 76134, "foodAtHome": 4368},
-        "South": {"income": 75555, "foodAtHome": 4222},
-        "West": {"income": 86301, "foodAtHome": 4934}
+        "Northeast": {
+          "income": 90625,
+          "foodAtHome": 5018,
+          "sharePercent": 5.54,
+          "changeSinceStartPp": 0.1
+        },
+        "Midwest": {
+          "income": 76134,
+          "foodAtHome": 4368,
+          "sharePercent": 5.74,
+          "changeSinceStartPp": -0.1
+        },
+        "South": {
+          "income": 75555,
+          "foodAtHome": 4222,
+          "sharePercent": 5.59,
+          "changeSinceStartPp": -0.27
+        },
+        "West": {
+          "income": 86301,
+          "foodAtHome": 4934,
+          "sharePercent": 5.72,
+          "changeSinceStartPp": -0.27
+        }
       },
       "divisions": {
-        "New England": {"region": "Northeast", "income": 90820, "foodAtHome": 5015},
-        "Middle Atlantic": {"region": "Northeast", "income": 90550, "foodAtHome": 5019},
-        "East North Central": {"region": "Midwest", "income": 75574, "foodAtHome": 4385},
-        "West North Central": {"region": "Midwest", "income": 77295, "foodAtHome": 4332},
-        "South Atlantic": {"region": "South", "income": 77381, "foodAtHome": 4475},
-        "East South Central": {"region": "South", "income": 77927, "foodAtHome": 3919},
-        "West South Central": {"region": "South", "income": 71285, "foodAtHome": 3932},
-        "Mountain": {"region": "West", "income": 75237, "foodAtHome": 4850},
-        "Pacific": {"region": "West", "income": 91211, "foodAtHome": 4969}
+        "New England": {
+          "region": "Northeast",
+          "income": 90820,
+          "foodAtHome": 5015,
+          "sharePercent": 5.52,
+          "changeSinceStartPp": -0.17
+        },
+        "Middle Atlantic": {
+          "region": "Northeast",
+          "income": 90550,
+          "foodAtHome": 5019,
+          "sharePercent": 5.54,
+          "changeSinceStartPp": 0.2
+        },
+        "East North Central": {
+          "region": "Midwest",
+          "income": 75574,
+          "foodAtHome": 4385,
+          "sharePercent": 5.8,
+          "changeSinceStartPp": -0.12
+        },
+        "West North Central": {
+          "region": "Midwest",
+          "income": 77295,
+          "foodAtHome": 4332,
+          "sharePercent": 5.6,
+          "changeSinceStartPp": -0.04
+        },
+        "South Atlantic": {
+          "region": "South",
+          "income": 77381,
+          "foodAtHome": 4475,
+          "sharePercent": 5.78,
+          "changeSinceStartPp": -0.1
+        },
+        "East South Central": {
+          "region": "South",
+          "income": 77927,
+          "foodAtHome": 3919,
+          "sharePercent": 5.03,
+          "changeSinceStartPp": -1.43
+        },
+        "West South Central": {
+          "region": "South",
+          "income": 71285,
+          "foodAtHome": 3932,
+          "sharePercent": 5.52,
+          "changeSinceStartPp": 0.01
+        },
+        "Mountain": {
+          "region": "West",
+          "income": 75237,
+          "foodAtHome": 4850,
+          "sharePercent": 6.45,
+          "changeSinceStartPp": -0.44
+        },
+        "Pacific": {
+          "region": "West",
+          "income": 91211,
+          "foodAtHome": 4969,
+          "sharePercent": 5.45,
+          "changeSinceStartPp": -0.23
+        }
       }
     },
     {
-      "period": "2019–2020",
+      "period": "2019\u20132020",
       "sourceRegion": "https://www.bls.gov/cex/tables/geographic/mean/cu-region-2-year-average-2020.pdf",
       "sourceDivision": "https://www.bls.gov/cex/tables/geographic/mean/cu-division-2-year-average-2020.pdf",
       "regions": {
-        "Northeast": {"income": 91887, "foodAtHome": 5497},
-        "Midwest": {"income": 78572, "foodAtHome": 4571},
-        "South": {"income": 78716, "foodAtHome": 4313},
-        "West": {"income": 90211, "foodAtHome": 5278}
+        "Northeast": {
+          "income": 91887,
+          "foodAtHome": 5497,
+          "sharePercent": 5.98,
+          "changeSinceStartPp": 0.54
+        },
+        "Midwest": {
+          "income": 78572,
+          "foodAtHome": 4571,
+          "sharePercent": 5.82,
+          "changeSinceStartPp": -0.01
+        },
+        "South": {
+          "income": 78716,
+          "foodAtHome": 4313,
+          "sharePercent": 5.48,
+          "changeSinceStartPp": -0.38
+        },
+        "West": {
+          "income": 90211,
+          "foodAtHome": 5278,
+          "sharePercent": 5.85,
+          "changeSinceStartPp": -0.14
+        }
       },
       "divisions": {
-        "New England": {"region": "Northeast", "income": 95383, "foodAtHome": 5491},
-        "Middle Atlantic": {"region": "Northeast", "income": 90560, "foodAtHome": 5499},
-        "East North Central": {"region": "Midwest", "income": 77589, "foodAtHome": 4723},
-        "West North Central": {"region": "Midwest", "income": 80582, "foodAtHome": 4265},
-        "South Atlantic": {"region": "South", "income": 81470, "foodAtHome": 4586},
-        "East South Central": {"region": "South", "income": 79772, "foodAtHome": 4504},
-        "West South Central": {"region": "South", "income": 73461, "foodAtHome": 3738},
-        "Mountain": {"region": "West", "income": 78910, "foodAtHome": 4822},
-        "Pacific": {"region": "West", "income": 95381, "foodAtHome": 5488}
+        "New England": {
+          "region": "Northeast",
+          "income": 95383,
+          "foodAtHome": 5491,
+          "sharePercent": 5.76,
+          "changeSinceStartPp": 0.07
+        },
+        "Middle Atlantic": {
+          "region": "Northeast",
+          "income": 90560,
+          "foodAtHome": 5499,
+          "sharePercent": 6.07,
+          "changeSinceStartPp": 0.73
+        },
+        "East North Central": {
+          "region": "Midwest",
+          "income": 77589,
+          "foodAtHome": 4723,
+          "sharePercent": 6.09,
+          "changeSinceStartPp": 0.16
+        },
+        "West North Central": {
+          "region": "Midwest",
+          "income": 80582,
+          "foodAtHome": 4265,
+          "sharePercent": 5.29,
+          "changeSinceStartPp": -0.35
+        },
+        "South Atlantic": {
+          "region": "South",
+          "income": 81470,
+          "foodAtHome": 4586,
+          "sharePercent": 5.63,
+          "changeSinceStartPp": -0.25
+        },
+        "East South Central": {
+          "region": "South",
+          "income": 79772,
+          "foodAtHome": 4504,
+          "sharePercent": 5.65,
+          "changeSinceStartPp": -0.82
+        },
+        "West South Central": {
+          "region": "South",
+          "income": 73461,
+          "foodAtHome": 3738,
+          "sharePercent": 5.09,
+          "changeSinceStartPp": -0.42
+        },
+        "Mountain": {
+          "region": "West",
+          "income": 78910,
+          "foodAtHome": 4822,
+          "sharePercent": 6.11,
+          "changeSinceStartPp": -0.77
+        },
+        "Pacific": {
+          "region": "West",
+          "income": 95381,
+          "foodAtHome": 5488,
+          "sharePercent": 5.75,
+          "changeSinceStartPp": 0.08
+        }
       }
     },
     {
-      "period": "2020–2021",
+      "period": "2020\u20132021",
       "sourceRegion": "https://www.bls.gov/cex/tables/geographic/mean/cu-region-2-year-average-2021.pdf",
       "sourceDivision": "https://www.bls.gov/cex/tables/geographic/mean/cu-division-2-year-average-2021.pdf",
       "regions": {
-        "Northeast": {"income": 97726, "foodAtHome": 5966},
-        "Midwest": {"income": 81523, "foodAtHome": 4783},
-        "South": {"income": 78620, "foodAtHome": 4549},
-        "West": {"income": 93329, "foodAtHome": 5673}
+        "Northeast": {
+          "income": 97726,
+          "foodAtHome": 5966,
+          "sharePercent": 6.1,
+          "changeSinceStartPp": 0.67
+        },
+        "Midwest": {
+          "income": 81523,
+          "foodAtHome": 4783,
+          "sharePercent": 5.87,
+          "changeSinceStartPp": 0.03
+        },
+        "South": {
+          "income": 78620,
+          "foodAtHome": 4549,
+          "sharePercent": 5.79,
+          "changeSinceStartPp": -0.07
+        },
+        "West": {
+          "income": 93329,
+          "foodAtHome": 5673,
+          "sharePercent": 6.08,
+          "changeSinceStartPp": 0.09
+        }
       },
       "divisions": {
-        "New England": {"region": "Northeast", "income": 99990, "foodAtHome": 6322},
-        "Middle Atlantic": {"region": "Northeast", "income": 96882, "foodAtHome": 5834},
-        "East North Central": {"region": "Midwest", "income": 80671, "foodAtHome": 4906},
-        "West North Central": {"region": "Midwest", "income": 83270, "foodAtHome": 4527},
-        "South Atlantic": {"region": "South", "income": 83389, "foodAtHome": 4829},
-        "East South Central": {"region": "South", "income": 73579, "foodAtHome": 5095},
-        "West South Central": {"region": "South", "income": 73011, "foodAtHome": 3766},
-        "Mountain": {"region": "West", "income": 81824, "foodAtHome": 5252},
-        "Pacific": {"region": "West", "income": 98551, "foodAtHome": 5866}
+        "New England": {
+          "region": "Northeast",
+          "income": 99990,
+          "foodAtHome": 6322,
+          "sharePercent": 6.32,
+          "changeSinceStartPp": 0.63
+        },
+        "Middle Atlantic": {
+          "region": "Northeast",
+          "income": 96882,
+          "foodAtHome": 5834,
+          "sharePercent": 6.02,
+          "changeSinceStartPp": 0.68
+        },
+        "East North Central": {
+          "region": "Midwest",
+          "income": 80671,
+          "foodAtHome": 4906,
+          "sharePercent": 6.08,
+          "changeSinceStartPp": 0.16
+        },
+        "West North Central": {
+          "region": "Midwest",
+          "income": 83270,
+          "foodAtHome": 4527,
+          "sharePercent": 5.44,
+          "changeSinceStartPp": -0.21
+        },
+        "South Atlantic": {
+          "region": "South",
+          "income": 83389,
+          "foodAtHome": 4829,
+          "sharePercent": 5.79,
+          "changeSinceStartPp": -0.09
+        },
+        "East South Central": {
+          "region": "South",
+          "income": 73579,
+          "foodAtHome": 5095,
+          "sharePercent": 6.92,
+          "changeSinceStartPp": 0.46
+        },
+        "West South Central": {
+          "region": "South",
+          "income": 73011,
+          "foodAtHome": 3766,
+          "sharePercent": 5.16,
+          "changeSinceStartPp": -0.35
+        },
+        "Mountain": {
+          "region": "West",
+          "income": 81824,
+          "foodAtHome": 5252,
+          "sharePercent": 6.42,
+          "changeSinceStartPp": -0.46
+        },
+        "Pacific": {
+          "region": "West",
+          "income": 98551,
+          "foodAtHome": 5866,
+          "sharePercent": 5.95,
+          "changeSinceStartPp": 0.28
+        }
       }
     },
     {
-      "period": "2021–2022",
+      "period": "2021\u20132022",
       "sourceRegion": "https://www.bls.gov/cex/tables/geographic/mean/cu-region-2-year-average-2021-2022.pdf",
       "sourceDivision": "https://www.bls.gov/cex/tables/geographic/mean/cu-division-2-year-average-2021-2022.pdf",
       "regions": {
-        "Northeast": {"income": 104423, "foodAtHome": 6217},
-        "Midwest": {"income": 87956, "foodAtHome": 5231},
-        "South": {"income": 81251, "foodAtHome": 4968},
-        "West": {"income": 99055, "foodAtHome": 6022}
+        "Northeast": {
+          "income": 104423,
+          "foodAtHome": 6217,
+          "sharePercent": 5.95,
+          "changeSinceStartPp": 0.51
+        },
+        "Midwest": {
+          "income": 87956,
+          "foodAtHome": 5231,
+          "sharePercent": 5.95,
+          "changeSinceStartPp": 0.11
+        },
+        "South": {
+          "income": 81251,
+          "foodAtHome": 4968,
+          "sharePercent": 6.11,
+          "changeSinceStartPp": 0.26
+        },
+        "West": {
+          "income": 99055,
+          "foodAtHome": 6022,
+          "sharePercent": 6.08,
+          "changeSinceStartPp": 0.09
+        }
       },
       "divisions": {
-        "New England": {"region": "Northeast", "income": 109899, "foodAtHome": 6525},
-        "Middle Atlantic": {"region": "Northeast", "income": 102322, "foodAtHome": 6098},
-        "East North Central": {"region": "Midwest", "income": 88419, "foodAtHome": 5329},
-        "West North Central": {"region": "Midwest", "income": 86986, "foodAtHome": 5024},
-        "South Atlantic": {"region": "South", "income": 87192, "foodAtHome": 5263},
-        "East South Central": {"region": "South", "income": 77766, "foodAtHome": 5044},
-        "West South Central": {"region": "South", "income": 72794, "foodAtHome": 4405},
-        "Mountain": {"region": "West", "income": 91427, "foodAtHome": 5644},
-        "Pacific": {"region": "West", "income": 102484, "foodAtHome": 6191}
+        "New England": {
+          "region": "Northeast",
+          "income": 109899,
+          "foodAtHome": 6525,
+          "sharePercent": 5.94,
+          "changeSinceStartPp": 0.25
+        },
+        "Middle Atlantic": {
+          "region": "Northeast",
+          "income": 102322,
+          "foodAtHome": 6098,
+          "sharePercent": 5.96,
+          "changeSinceStartPp": 0.62
+        },
+        "East North Central": {
+          "region": "Midwest",
+          "income": 88419,
+          "foodAtHome": 5329,
+          "sharePercent": 6.03,
+          "changeSinceStartPp": 0.1
+        },
+        "West North Central": {
+          "region": "Midwest",
+          "income": 86986,
+          "foodAtHome": 5024,
+          "sharePercent": 5.78,
+          "changeSinceStartPp": 0.13
+        },
+        "South Atlantic": {
+          "region": "South",
+          "income": 87192,
+          "foodAtHome": 5263,
+          "sharePercent": 6.04,
+          "changeSinceStartPp": 0.16
+        },
+        "East South Central": {
+          "region": "South",
+          "income": 77766,
+          "foodAtHome": 5044,
+          "sharePercent": 6.49,
+          "changeSinceStartPp": 0.02
+        },
+        "West South Central": {
+          "region": "South",
+          "income": 72794,
+          "foodAtHome": 4405,
+          "sharePercent": 6.05,
+          "changeSinceStartPp": 0.54
+        },
+        "Mountain": {
+          "region": "West",
+          "income": 91427,
+          "foodAtHome": 5644,
+          "sharePercent": 6.17,
+          "changeSinceStartPp": -0.71
+        },
+        "Pacific": {
+          "region": "West",
+          "income": 102484,
+          "foodAtHome": 6191,
+          "sharePercent": 6.04,
+          "changeSinceStartPp": 0.37
+        }
+      }
+    },
+    {
+      "period": "2022\u20132023",
+      "sourceRegion": "https://www.bls.gov/cex/tables/geographic/mean/cu-region-2-year-average-2022-2023.xlsx",
+      "sourceDivision": "https://www.bls.gov/cex/tables/geographic/mean/cu-division-2-year-average-2022-2023.xlsx",
+      "regions": {
+        "Northeast": {
+          "income": 112832,
+          "foodAtHome": 6598,
+          "sharePercent": 5.85,
+          "changeSinceStartPp": 0.41
+        },
+        "Midwest": {
+          "income": 92022,
+          "foodAtHome": 5785,
+          "sharePercent": 6.29,
+          "changeSinceStartPp": 0.45
+        },
+        "South": {
+          "income": 86615,
+          "foodAtHome": 5262,
+          "sharePercent": 6.08,
+          "changeSinceStartPp": 0.22
+        },
+        "West": {
+          "income": 111604,
+          "foodAtHome": 6467,
+          "sharePercent": 5.79,
+          "changeSinceStartPp": -0.19
+        }
+      },
+      "divisions": {
+        "New England": {
+          "region": "Northeast",
+          "income": 120623,
+          "foodAtHome": 7087,
+          "sharePercent": 5.88,
+          "changeSinceStartPp": 0.19
+        },
+        "Middle Atlantic": {
+          "region": "Northeast",
+          "income": 109701,
+          "foodAtHome": 6407,
+          "sharePercent": 5.84,
+          "changeSinceStartPp": 0.5
+        },
+        "East North Central": {
+          "region": "Midwest",
+          "income": 93721,
+          "foodAtHome": 5953,
+          "sharePercent": 6.35,
+          "changeSinceStartPp": 0.43
+        },
+        "West North Central": {
+          "region": "Midwest",
+          "income": 88473,
+          "foodAtHome": 5430,
+          "sharePercent": 6.14,
+          "changeSinceStartPp": 0.49
+        },
+        "South Atlantic": {
+          "region": "South",
+          "income": 93337,
+          "foodAtHome": 5482,
+          "sharePercent": 5.87,
+          "changeSinceStartPp": -0.0
+        },
+        "East South Central": {
+          "region": "South",
+          "income": 77027,
+          "foodAtHome": 5654,
+          "sharePercent": 7.34,
+          "changeSinceStartPp": 0.88
+        },
+        "West South Central": {
+          "region": "South",
+          "income": 79646,
+          "foodAtHome": 4678,
+          "sharePercent": 5.87,
+          "changeSinceStartPp": 0.36
+        },
+        "Mountain": {
+          "region": "West",
+          "income": 104790,
+          "foodAtHome": 5917,
+          "sharePercent": 5.65,
+          "changeSinceStartPp": -1.24
+        },
+        "Pacific": {
+          "region": "West",
+          "income": 114645,
+          "foodAtHome": 6713,
+          "sharePercent": 5.86,
+          "changeSinceStartPp": 0.18
+        }
+      }
+    },
+    {
+      "period": "2023\u20132024",
+      "sourceRegion": "https://www.bls.gov/cex/tables/geographic/mean/cu-region-2-year-average-2023-2024.xlsx",
+      "sourceDivision": "https://www.bls.gov/cex/tables/geographic/mean/cu-division-2-year-average-2023-2024.xlsx",
+      "regions": {
+        "Northeast": {
+          "income": 116310,
+          "foodAtHome": 7029,
+          "sharePercent": 6.04,
+          "changeSinceStartPp": 0.6
+        },
+        "Midwest": {
+          "income": 94880,
+          "foodAtHome": 5931,
+          "sharePercent": 6.25,
+          "changeSinceStartPp": 0.42
+        },
+        "South": {
+          "income": 91824,
+          "foodAtHome": 5445,
+          "sharePercent": 5.93,
+          "changeSinceStartPp": 0.07
+        },
+        "West": {
+          "income": 120145,
+          "foodAtHome": 6852,
+          "sharePercent": 5.7,
+          "changeSinceStartPp": -0.28
+        }
+      },
+      "divisions": {
+        "New England": {
+          "region": "Northeast",
+          "income": 122023,
+          "foodAtHome": 7530,
+          "sharePercent": 6.17,
+          "changeSinceStartPp": 0.48
+        },
+        "Middle Atlantic": {
+          "region": "Northeast",
+          "income": 114014,
+          "foodAtHome": 6839,
+          "sharePercent": 6.0,
+          "changeSinceStartPp": 0.66
+        },
+        "East North Central": {
+          "region": "Midwest",
+          "income": 96047,
+          "foodAtHome": 6175,
+          "sharePercent": 6.43,
+          "changeSinceStartPp": 0.51
+        },
+        "West North Central": {
+          "region": "Midwest",
+          "income": 92482,
+          "foodAtHome": 5415,
+          "sharePercent": 5.86,
+          "changeSinceStartPp": 0.21
+        },
+        "South Atlantic": {
+          "region": "South",
+          "income": 98043,
+          "foodAtHome": 5636,
+          "sharePercent": 5.75,
+          "changeSinceStartPp": -0.13
+        },
+        "East South Central": {
+          "region": "South",
+          "income": 77484,
+          "foodAtHome": 6050,
+          "sharePercent": 7.81,
+          "changeSinceStartPp": 1.35
+        },
+        "West South Central": {
+          "region": "South",
+          "income": 87962,
+          "foodAtHome": 4791,
+          "sharePercent": 5.45,
+          "changeSinceStartPp": -0.06
+        },
+        "Mountain": {
+          "region": "West",
+          "income": 111016,
+          "foodAtHome": 6721,
+          "sharePercent": 6.05,
+          "changeSinceStartPp": -0.83
+        },
+        "Pacific": {
+          "region": "West",
+          "income": 124314,
+          "foodAtHome": 6909,
+          "sharePercent": 5.56,
+          "changeSinceStartPp": -0.12
+        }
       }
     }
   ]
